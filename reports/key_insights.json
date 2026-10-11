@@ -6,6 +6,8 @@
   "invalid_or_missing_coordinate_rows": 0,
   "coordinate_coverage_percent": 100.0,
   "overall_average_rating": 2.666,
+  "average_rating_among_rated_restaurants": 3.44,
+  "not_rated_restaurants": 2148,
   "most_represented_city": "New Delhi",
   "most_represented_city_restaurants": 5473,
   "most_represented_locality": {
@@ -16,5 +18,5 @@
   "most_common_cuisine": "North Indian",
   "most_common_cuisine_mentions": 3960,
   "city_with_highest_average_rating_min_30_restaurants": "Gurgaon",
-  "note": "Average ratings are computed from recorded ratings; unrated restaurants are excluded by pandas mean. Cuisine counts count each listed cuisine once per restaurant row."
+  "note": "Zero aggregate ratings are treated as unrated and excluded from rating averages. Cuisine counts count each listed cuisine once per restaurant row."
 }
