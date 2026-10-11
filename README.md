@@ -48,7 +48,7 @@ The run writes fresh tables to `reports/`, plots and the interactive map to `vis
 
 Restaurant coordinates are checked against valid longitude and latitude ranges. The static coordinate plot colours valid locations by aggregate rating, while the HTML map aggregates coordinates to one decimal place and scales circles by restaurant count to show spatial density. City and city/locality groupings report restaurant count, average rating, median and mean price range, and distinct cuisine strings. Cuisine mentions are split on commas and counted once per restaurant row.
 
-Average ratings omit unrated rows. City-level rating comparisons are more stable for places with enough restaurants, so the headline high-rating city is limited to cities with at least 30 records. Dataset coverage and location concentration describe this dataset only; they do not represent all restaurants in a city or prove that location causes rating or price differences. Price range is an ordinal field, not a currency amount.
+Average ratings omit zero-valued “Not rated” rows. City-level rating comparisons are more stable for places with enough restaurants, so the headline high-rating city is limited to cities with at least 30 records. Dataset coverage and location concentration describe this dataset only; they do not represent all restaurants in a city or prove that location causes rating or price differences. Price range is an ordinal field, not a currency amount.
 
 ## Task checklist
 
@@ -61,7 +61,7 @@ Average ratings omit unrated rows. City-level rating comparisons are more stable
 
 The reproducible run covered **9,551 restaurants across 141 cities** and 1,265 city/locality groups. All 9,551 rows had valid coordinates. **New Delhi** contained 5,473 restaurants (57.3% of the dataset), followed by Gurgaon (1,118) and Noida (1,080). Connaught Place in New Delhi was the largest locality group with 122 restaurants.
 
-The overall average rating was **2.666**. Among cities with at least 30 restaurants, Gurgaon had the highest mean rating at **2.651** (1,118 restaurants); New Delhi averaged 2.439 and Noida 2.036. North Indian was the most frequently listed cuisine (3,960 restaurant mentions). Median price range was 1 in New Delhi, Noida, and Faridabad, and 2 in Gurgaon. The city's concentration reflects the dataset's coverage and should not be read as a complete census of those markets.
+The dataset marks **2,148 restaurants as “Not rated”** with a zero rating. Excluding those rows, the mean rating was **3.440** across 7,403 rated restaurants. Among cities with at least 30 restaurants, Gurgaon had the highest mean rating at **3.331** (1,118 restaurants); New Delhi averaged 3.297 and Noida 3.160. North Indian was the most frequently listed cuisine (3,960 restaurant mentions). Median price range was 1 in New Delhi, Noida, and Faridabad, and 2 in Gurgaon. The city's concentration reflects the dataset's coverage and should not be read as a complete census of those markets.
 
 The exact metrics and full city/locality tables are saved in `reports/`; the charts and interactive map are saved in `visualizations/`.
 
