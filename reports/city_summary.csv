@@ -1,9 +1,9 @@
 City,restaurant_count,average_rating,median_price_range,average_price_range,unique_cuisines,top_cuisine
-New Delhi,5473,2.439,1.000,1.622,892,North Indian
-Gurgaon,1118,2.651,2.000,1.856,362,North Indian
-Noida,1080,2.036,1.000,1.602,248,North Indian
-Faridabad,251,1.867,1.000,1.454,87,North Indian
-Ghaziabad,25,2.852,2.000,1.800,18,North Indian
+New Delhi,5473,3.297,1.000,1.622,892,North Indian
+Gurgaon,1118,3.331,2.000,1.856,362,North Indian
+Noida,1080,3.160,1.000,1.602,248,North Indian
+Faridabad,251,3.103,1.000,1.454,87,North Indian
+Ghaziabad,25,3.100,2.000,1.800,18,North Indian
 Bhubaneshwar,21,3.981,2.000,1.857,18,Chinese
 Lucknow,21,4.195,3.000,2.571,20,North Indian
 Guwahati,21,4.190,2.000,2.524,19,Chinese
@@ -22,11 +22,11 @@ Ankara,20,4.305,3.000,2.800,13,Kebab
 Allahabad,20,3.395,3.000,2.650,18,North Indian
 Chennai,20,4.315,2.500,2.450,18,North Indian
 Des Moines,20,4.235,2.000,2.150,20,American
-Davenport,20,3.715,2.000,2.000,16,American
+Davenport,20,4.128,2.000,2.000,16,American
 Dehradun,20,4.050,3.000,3.050,16,North Indian
 Boise,20,4.260,2.000,2.050,17,American
 Cedar Rapids/Iowa City,20,4.165,2.000,2.050,18,American
-Birmingham,20,3.680,2.000,2.400,19,British
+Birmingham,20,3.874,2.000,2.400,19,British
 Bangalore,20,4.375,3.000,2.700,17,North Indian
 Edinburgh,20,4.090,3.000,2.900,19,Cafe
 Doha,20,4.060,4.000,3.650,14,Indian
@@ -51,7 +51,7 @@ Manchester,20,4.045,3.000,2.700,19,American
 Mangalore,20,3.745,2.000,2.500,19,North Indian
 Sioux City,20,3.765,2.000,1.900,18,American
 Singapore,20,3.575,4.000,3.650,19,American
-Sï¿½ï¿½o Paulo,20,3.530,4.000,3.600,18,Brazilian
+Sï¿½ï¿½o Paulo,20,4.153,4.000,3.600,18,Brazilian
 Tampa Bay,20,4.410,3.000,2.550,20,Seafood
 Varanasi,20,3.510,2.500,2.450,14,North Indian
 Wellington City,20,4.250,3.000,3.250,17,Cafe
@@ -61,12 +61,12 @@ Vadodara,20,4.025,3.000,2.600,19,North Indian
 Valdosta,20,3.715,2.000,2.250,17,Mexican
 Sharjah,20,4.030,3.000,3.300,20,Indian
 Rest of Hawaii,20,4.410,2.500,2.350,17,Seafood
-Rio de Janeiro,20,4.265,4.000,3.500,14,Brazilian
+Rio de Janeiro,20,4.489,4.000,3.500,14,Brazilian
 Pretoria,20,4.190,4.000,3.700,20,Burger
 Pensacola,20,4.200,2.500,2.350,20,Seafood
 Puducherry,20,3.730,3.000,3.000,16,Continental
 Pune,20,4.220,3.000,2.950,19,North Indian
-Pocatello,20,3.485,2.000,1.800,19,American
+Pocatello,20,3.668,2.000,1.800,19,American
 Ranchi,20,3.455,2.000,2.050,15,North Indian
 Patna,20,3.455,2.000,2.450,16,North Indian
 Orlando,20,4.475,3.000,2.900,20,American
@@ -75,7 +75,7 @@ Mysore,20,3.695,2.000,2.450,19,North Indian
 Nagpur,20,3.965,2.000,2.300,17,Chinese
 Mumbai,20,4.085,3.000,2.750,16,Italian
 Coimbatore,20,4.135,2.000,2.400,20,North Indian
-Brasï¿½_lia,20,3.495,3.500,3.100,16,Brazilian
+Brasï¿½_lia,20,3.679,3.500,3.100,16,Brazilian
 Hyderabad,18,4.344,3.000,2.889,16,North Indian
 Chandigarh,18,4.050,2.500,2.500,18,North Indian
 Jakarta,16,4.356,3.000,3.000,14,Western
