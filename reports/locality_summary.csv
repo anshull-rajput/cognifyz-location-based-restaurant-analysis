@@ -1,0 +1,1267 @@
+City,Locality,restaurant_count,average_rating,median_price_range,unique_cuisines
+New Delhi,Connaught Place,122,3.687,3.000,90
+New Delhi,Rajouri Garden,99,3.592,2.000,71
+New Delhi,Shahdara,87,1.414,1.000,40
+New Delhi,Defence Colony,86,3.210,2.000,55
+New Delhi,Pitampura,85,2.871,1.000,46
+New Delhi,Mayur Vihar Phase 1,84,2.026,1.000,39
+New Delhi,Malviya Nagar,84,3.418,2.000,59
+New Delhi,Rajinder Nagar,81,2.943,1.000,44
+New Delhi,Safdarjung,80,2.801,2.000,52
+New Delhi,Satyaniketan,79,3.482,2.000,61
+Noida,Sector 62,76,1.955,1.000,39
+New Delhi,Karol Bagh,76,3.071,1.500,47
+New Delhi,Krishna Nagar,76,1.871,1.000,39
+Noida,Sector 18,75,3.371,2.000,52
+New Delhi,Hauz Khas,74,2.507,1.000,43
+New Delhi,Kalkaji,73,2.989,1.000,38
+Gurgaon,DLF Phase 3,69,3.201,1.000,43
+New Delhi,Mahipalpur,69,1.072,1.000,35
+New Delhi,Mukherjee Nagar,68,1.062,1.000,26
+New Delhi,Chandni Chowk,67,2.757,1.000,27
+New Delhi,Shalimar Bagh,67,2.170,1.000,35
+New Delhi,Greater Kailash (GK) 1,66,3.697,2.000,50
+New Delhi,Greater Kailash (GK) 2,66,3.553,2.000,50
+New Delhi,Kamla Nagar,65,3.295,1.000,44
+New Delhi,Delhi University-GTB Nagar,65,2.738,1.000,44
+New Delhi,Paharganj,64,2.811,2.000,40
+New Delhi,Vasundhara Enclave,62,0.837,1.000,34
+New Delhi,Jail Road,61,2.559,1.000,31
+Noida,Sector 72,61,1.292,1.000,40
+New Delhi,Palam,60,0.580,1.000,25
+New Delhi,Najafgarh,60,0.048,1.000,29
+New Delhi,Vikaspuri,60,2.863,1.000,33
+New Delhi,Tilak Nagar,60,1.372,1.000,28
+New Delhi,Punjabi Bagh,60,3.393,2.000,44
+New Delhi,Uttam Nagar,59,1.724,1.000,34
+New Delhi,Laxmi Nagar,58,2.779,1.000,34
+New Delhi,Jangpura,57,1.914,1.000,32
+New Delhi,Dilshad Garden,57,1.711,1.000,29
+New Delhi,Paschim Vihar,56,3.148,1.000,34
+New Delhi,East of Kailash,56,1.429,1.000,35
+New Delhi,Kirti Nagar,56,3.091,2.000,36
+New Delhi,Naraina,54,1.448,1.000,33
+Gurgaon,Sector 56,54,1.689,1.000,29
+Noida,Sector 110,53,2.049,2.000,30
+Gurgaon,Sector 14,52,2.598,1.000,36
+New Delhi,Subhash Nagar,51,1.069,1.000,25
+New Delhi,East Patel Nagar,50,2.648,1.000,37
+Gurgaon,Palam Vihar,49,0.984,1.000,30
+New Delhi,Preet Vihar,49,1.918,1.000,30
+New Delhi,Rohini,48,3.352,1.000,31
+New Delhi,Netaji Subhash Place,48,3.529,1.000,33
+New Delhi,IP Extension,47,1.823,1.000,28
+New Delhi,New Friends Colony,47,2.262,2.000,32
+New Delhi,Green Park,46,2.435,2.000,37
+New Delhi,Janakpuri,46,3.315,2.000,31
+New Delhi,Chittaranjan Park,46,2.450,1.000,31
+Noida,Sector 41,45,2.244,2.000,32
+New Delhi,Khan Market,44,3.716,3.000,37
+New Delhi,Daryaganj,43,1.835,1.000,19
+Noida,Sector 132,43,0.958,1.000,24
+New Delhi,Munirka,43,1.556,1.000,27
+New Delhi,Lajpat Nagar 1,42,1.414,1.000,24
+Gurgaon,Sohna Road,42,3.262,2.000,33
+New Delhi,Anand Vihar,42,2.110,1.000,26
+Gurgaon,"Cyber Hub, DLF Cyber City",41,3.861,3.000,39
+Gurgaon,Old Railway Road,41,2.715,1.000,24
+New Delhi,South Extension 2,41,2.761,2.000,26
+New Delhi,Nangloi,41,0.000,1.000,25
+New Delhi,Moti Nagar,40,1.852,1.000,23
+New Delhi,Janpath,39,3.023,2.000,29
+New Delhi,Gujranwala Town,39,2.015,1.000,24
+Noida,Greater Noida,38,1.863,1.000,20
+Gurgaon,Sector 29,38,3.892,3.000,36
+New Delhi,GTB Nagar,38,1.592,1.000,26
+New Delhi,R K Puram,38,1.337,1.000,23
+Gurgaon,Udyog Vihar,37,1.062,1.000,20
+Noida,"The Great India Place, Sector 38",37,2.646,2.000,25
+New Delhi,Vasant Vihar,36,2.181,1.000,25
+New Delhi,Saket,36,2.894,1.500,28
+New Delhi,Tagore Garden,36,1.914,1.000,18
+New Delhi,Vivek Vihar,36,1.981,1.000,22
+New Delhi,Ashok Vihar Phase 1,36,1.717,1.000,23
+Noida,Sector 50,35,2.446,2.000,24
+New Delhi,Sainik Farms,35,0.786,1.000,22
+Gurgaon,Sector 31,35,2.834,1.000,26
+New Delhi,MG Road,34,0.174,1.000,21
+New Delhi,Geeta Colony,34,1.359,1.000,15
+New Delhi,Mayur Vihar Phase 3,32,1.841,1.000,19
+New Delhi,Nehru Place,32,2.497,1.000,21
+New Delhi,Alaknanda,32,2.347,1.000,26
+New Delhi,Chanakyapuri,32,2.700,2.000,20
+Noida,"DLF Mall of India, Sector 18,  Noida",31,3.842,2.000,27
+Faridabad,Sector 15,31,3.429,1.000,27
+Gurgaon,Sector 45,31,1.526,1.000,22
+New Delhi,Lodhi Colony,31,3.184,2.000,26
+New Delhi,Vijay Nagar,31,3.606,1.000,25
+Noida,"Logix City Centre, Sector 32, Noida",30,1.913,1.000,25
+Gurgaon,Sushant Lok,30,2.913,2.000,24
+New Delhi,Mayur Vihar Phase 2,29,2.810,1.000,20
+Noida,Sector 15,29,1.597,1.000,17
+Noida,Sector 51,28,1.236,2.000,22
+Gurgaon,Golf Course Road,27,3.559,2.000,22
+Gurgaon,DLF Phase 1,27,2.856,2.000,24
+New Delhi,Shakarpur,27,0.763,1.000,18
+New Delhi,"Pacific Mall, Tagore Garden",27,2.722,2.000,21
+Noida,Sector 27,26,2.185,1.000,18
+New Delhi,"V3S Mall, Laxmi Nagar",26,2.819,2.000,19
+New Delhi,Jama Masjid,26,2.465,1.000,10
+New Delhi,Sarita Vihar,26,1.500,1.000,15
+New Delhi,Shahpur Jat,26,3.715,2.000,20
+New Delhi,Majnu ka Tila,25,0.496,1.000,18
+Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",25,2.832,2.000,23
+New Delhi,"Select Citywalk Mall, Saket",25,3.764,2.000,22
+New Delhi,Yusuf Sarai,25,1.968,1.000,16
+Noida,Sector 37,25,2.996,1.000,20
+New Delhi,Model Town 2,25,3.256,1.000,22
+Gurgaon,MG Road,24,3.175,2.000,20
+Gurgaon,"MGF Metropolitan Mall, MG Road",24,3.242,2.000,24
+New Delhi,Hauz Khas Village,24,3.846,3.000,23
+Noida,Sector 44,23,1.770,2.000,14
+New Delhi,Vasant Kunj,23,3.526,2.000,21
+New Delhi,Karkardooma,23,3.483,2.000,20
+New Delhi,Qutab Institutional Area,23,0.378,1.000,14
+New Delhi,"Moments Mall, Kirti Nagar",23,3.235,2.000,22
+New Delhi,Lajpat Nagar 2,22,3.105,2.000,21
+New Delhi,Kailash Colony,22,2.068,1.500,17
+Noida,Sector 12,22,1.327,1.000,12
+Gurgaon,DLF Phase 4,21,3.805,2.000,19
+Gurgaon,Sector 17,21,0.162,1.000,14
+New Delhi,"Epicuria Food Mall, Nehru Place",21,3.338,2.000,21
+New Delhi,Jasola,21,3.000,2.000,17
+New Delhi,"Dilli Haat, INA",20,3.225,1.000,18
+Valdosta,Valdosta,20,3.715,2.000,17
+Athens,Athens,20,4.200,1.000,19
+New Delhi,Mehrauli,20,0.585,1.000,16
+New Delhi,Pandav Nagar,20,0.290,1.000,14
+Gurgaon,Sector 39,20,0.300,1.000,13
+Dubuque,Dubuque,20,3.535,2.000,17
+Faridabad,Sector 37,20,1.515,1.000,12
+Columbus,Columbus,19,4.011,2.000,18
+New Delhi,Lodhi Road,19,2.421,1.000,15
+Noida,Sector 53,19,1.389,1.000,12
+Albany,Albany,19,3.563,1.000,16
+Noida,"Supertech Shopprix Mall, Sector 61",19,2.516,2.000,15
+Faridabad,Suraj Kund,19,1.542,1.000,17
+Gurgaon,Ardee City,19,0.474,1.000,15
+Boise,Boise,18,4.267,2.000,15
+New Delhi,"Community Centre, New Friends Colony",18,2.928,1.500,12
+Sioux City,Sioux City,18,3.783,1.500,17
+Savannah,Savannah,18,4.189,2.000,17
+Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",18,3.194,2.000,16
+Noida,Sector 93,18,2.083,1.000,13
+Allahabad,Civil Lines,18,3.394,3.000,16
+Gurgaon,"Vyapar Kendra, Sushant Lok",17,2.953,1.000,11
+Gurgaon,"Supermart 1, DLF Phase 4",17,3.753,2.000,14
+New Delhi,Prashant Vihar,17,1.624,1.000,13
+Ghaziabad,"Shipra Mall, Indirapuram",17,3.029,2.000,13
+Faridabad,Sector 16,17,1.606,1.000,9
+Gurgaon,"DLF Galleria, DLF Phase 4",17,3.582,2.000,16
+Noida,"Spice World Mall, Sector 25",16,1.906,2.000,12
+New Delhi,Barakhamba Road,16,2.406,1.000,14
+Pocatello,Pocatello,16,3.456,2.000,15
+New Delhi,"Basant Lok Market, Vasant Vihar",15,3.220,2.000,15
+New Delhi,Civil Lines,15,1.760,1.000,14
+Gurgaon,"DLF Mega Mall, DLF Phase 1",15,2.807,2.000,14
+Gurgaon,"DLF South Point Mall, Golf Course Road",15,3.707,3.000,14
+Augusta,Augusta,15,4.140,2.000,15
+New Delhi,Lawrence Road,15,1.987,1.000,14
+Davenport,Davenport,15,3.547,2.000,11
+Wellington City,Te Aro,15,4.300,3.000,13
+New Delhi,Mayapuri Phase 2,15,2.500,1.000,11
+New Delhi,SDA,15,2.793,2.000,11
+New Delhi,"Worldmark 1, Aerocity",14,1.150,2.000,12
+New Delhi,Zakir Nagar,14,0.000,1.000,12
+New Delhi,Ashok Vihar Phase 2,14,3.379,2.000,11
+Noida,"Gardens Galleria, Sector 38 Noida",14,1.886,2.000,12
+Faridabad,Sector 21,14,0.836,1.000,13
+New Delhi,Sarojini Nagar,13,1.531,1.000,11
+Noida,Sector 34,13,1.862,1.000,10
+Noida,Sector 38,13,1.977,1.000,12
+Noida,"Jaipuria Plaza, Sector 26, Noida",13,2.969,1.000,13
+New Delhi,PVR Anupam Complex,13,3.431,2.000,13
+Waterloo,Cedar Falls,13,3.646,2.000,13
+New Delhi,Adchini,13,3.292,2.000,12
+Gurgaon,"Qutab Plaza, DLF Phase 1",13,3.108,2.000,10
+New Delhi,"Living Style Mall, Jasola",13,2.985,2.000,10
+New Delhi,"DLF Promenade Mall, Vasant Kunj",13,3.762,2.000,13
+New Delhi,South Extension 1,13,2.169,2.000,12
+Noida,Sector 58,13,1.154,1.000,7
+Pensacola,Pensacola,12,4.200,2.000,12
+New Delhi,"Ambience Mall, Vasant Kunj",12,3.425,2.000,12
+New Delhi,Chawri Bazar,12,3.800,1.000,10
+Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",12,2.567,2.000,12
+Gurgaon,Sector 23,12,2.175,2.000,12
+Lucknow,Gomti Nagar,12,4.117,3.000,12
+Noida,Sector 63,12,0.433,1.000,10
+New Delhi,"DLF Place Mall, Saket",12,3.700,2.000,11
+Noida,Sector 16,11,2.191,2.000,9
+Faridabad,Sector 43,11,1.073,1.000,11
+Gurgaon,Sector 15,11,3.009,1.000,11
+Faridabad,Sector 86,11,3.173,2.000,9
+New Delhi,Ashok Vihar Phase 3,11,3.391,2.000,8
+Macon,Macon,10,4.310,2.000,10
+Noida,Sector 48,10,2.290,1.500,10
+New Delhi,Nizamuddin,10,2.560,1.000,9
+New Delhi,Pandara Road Market,10,3.860,3.000,6
+Gurgaon,DLF Phase 2,10,0.380,1.000,9
+New Delhi,JNU,10,2.510,1.000,8
+Faridabad,Sector 17,10,2.630,2.000,7
+Gurgaon,"Central Plaza Mall, Golf Course Road",10,3.500,2.000,10
+Gurgaon,Sector 7,10,3.240,1.000,10
+New Delhi,Model Town 3,10,3.010,1.000,8
+Noida,Sector 45,9,1.400,1.000,8
+New Delhi,Bhikaji Cama Place,9,2.756,1.000,8
+Gurgaon,Sector 22,9,0.333,1.000,8
+Bhubaneshwar,Patia,9,3.889,1.000,9
+Macon,Warner Robins,9,3.922,2.000,8
+New Delhi,Lado Sarai,9,0.733,1.000,7
+Faridabad,Sector 7,9,2.622,1.000,8
+Faridabad,Sector 31,9,1.011,1.000,8
+Noida,Sector 2,9,1.000,1.000,8
+New Delhi,"The Imperial, Janpath",9,3.600,4.000,9
+Noida,Sector 22,9,0.944,1.000,4
+Edinburgh,Old Town,9,3.933,2.000,9
+New Delhi,"Vasant Square Mall, Vasant Kunj",9,3.322,2.000,8
+Faridabad,Badarpur Border,9,1.911,1.000,7
+Cedar Rapids/Iowa City,Iowa City,9,4.189,2.000,9
+New Delhi,"Palate of Delhi, Chanakyapuri",9,0.711,2.000,9
+New Delhi,Okhla Phase 1,8,0.412,1.000,6
+New Delhi,Narela,8,0.000,1.000,6
+Puducherry,White Town,8,3.625,3.000,6
+New Delhi,Rajendra Place,8,1.788,2.000,7
+Noida,"Ganga Shopping Complex, Sector 29",8,2.812,2.000,8
+New Delhi,"Ansal Plaza Mall, Khel Gaon Marg",8,3.750,3.000,8
+Noida,Sector 11,8,1.962,2.000,8
+New Delhi,"The India Mall, New Friends Colony",8,2.600,2.000,8
+New Delhi,"The Lalit New Delhi, Barakhamba Road",8,3.538,4.000,7
+Noida,Sector 125,8,2.175,1.000,8
+Faridabad,Sector 10,8,1.863,1.500,6
+Gurgaon,"One Horizon Center, Golf Course Road",8,3.562,2.500,8
+Gurgaon,"Cross Point Mall, DLF Phase 4",8,3.913,3.000,8
+Dalton,Dalton,8,4.037,1.000,7
+Noida,Sector 31,8,1.888,1.000,5
+Vadodara,Vadiwadi,8,4.075,2.500,7
+Agra,Tajganj,8,4.050,2.500,8
+Cedar Rapids/Iowa City,Cedar Rapids,8,4.125,2.000,8
+Indore,Vijay Nagar,8,3.925,2.000,7
+Vadodara,Alkapuri,8,4.100,2.500,8
+Gurgaon,South City 2,8,1.087,1.500,6
+New Delhi,Patparganj,8,3.188,1.000,8
+Nashik,College Road,8,3.450,3.000,7
+Mangalore,Balmatta,7,3.714,2.000,7
+Gurgaon,"Global Foyer Mall, Golf Course Road",7,3.643,3.000,7
+New Delhi,"The Claridges, Aurangzeb Road",7,3.714,4.000,7
+Noida,Sector 29,7,2.400,1.000,6
+Noida,Sector 10,7,1.400,1.000,4
+New Delhi,"DLF South Square, Sarojini Nagar",7,2.557,2.000,7
+Gurgaon,"Vyapar Kendra, Palam Vihar",7,2.429,1.000,7
+New Delhi,"The Taj Mahal Hotel, Mansingh Road",7,3.786,4.000,7
+Rest of Hawaii,Waikiki,7,4.314,2.000,7
+Mysore,Vijay Nagar,7,3.614,2.000,7
+Gurgaon,Sector 21,7,1.814,1.000,7
+Noida,"MSX Mall, Greater Noida",7,2.600,1.000,6
+Gurgaon,"DT City Centre Mall, MG Road",7,3.043,2.000,6
+Colombo,"Kollupitiya, Colombo 03",7,3.914,3.000,7
+Noida,Sector 59,7,1.629,1.000,7
+Hyderabad,Jubilee Hills,7,4.386,3.000,7
+Amritsar,Town Hall,7,3.771,2.000,4
+Aurangabad,CIDCO,7,3.329,2.000,7
+Noida,Sector 71,7,0.857,1.000,4
+New Delhi,"Star City Mall, Mayur Vihar Phase 1",7,2.986,2.000,6
+Waterloo,Waterloo,7,3.657,2.000,6
+New Delhi,Sunder Nagar,7,3.171,3.000,6
+Gurgaon,"Huda City Centre Metro Station, Sector 29, Gurgaon",7,3.557,2.000,6
+Coimbatore,Race Course,7,4.057,3.000,7
+New Delhi,Chander Nagar,7,3.086,1.000,5
+New Delhi,"Sangam Courtyard, RK Puram",7,3.871,3.000,7
+New Delhi,Okhla Phase 2,6,2.117,2.000,6
+New Delhi,"Hotel The Royal Plaza, Janpath",6,3.417,4.000,6
+Noida,Sector 47,6,1.067,1.000,3
+New Delhi,India Gate,6,1.683,1.000,6
+Brasï¿½_lia,Asa Sul,6,2.967,3.000,5
+Orlando,Winter Park,6,4.283,2.500,6
+New Delhi,"ITC Maurya, Chanakyapuri",6,3.733,4.000,6
+New Delhi,"Hyatt Regency, Bhikaji Cama Place",6,3.800,4.000,6
+Noida,Sector 28,6,3.117,1.000,5
+New Delhi,"Le Meridien, Janpath",6,3.667,4.000,5
+Faridabad,Charmwood Village,6,1.467,1.000,5
+Des Moines,Downtown,6,4.200,2.500,6
+Gainesville,Gainesville,6,4.333,2.000,6
+Ranchi,Lalpur,6,3.450,1.500,6
+New Delhi,"The Ashok, Chanakyapuri",6,3.533,4.000,6
+Jaipur,C Scheme,6,4.233,3.000,6
+Gurgaon,"MGF Metropolis Mall, MG Road",6,3.200,2.000,5
+Noida,Sector 25,6,2.017,1.500,6
+New Delhi,Wazirpur,6,2.033,1.000,6
+Gurgaon,"Shopping Mall, DLF Phase 1",6,3.367,1.000,6
+New Delhi,"Radisson Blu Plaza Delhi, Mahipalpur",6,3.950,4.000,6
+Bangalore,Indiranagar,6,4.317,3.000,6
+Noida,Sector 65,6,1.000,1.000,5
+New Delhi,"District Centre, Janakpuri",6,2.950,2.000,5
+New Delhi,"MGM Club, Daryaganj",6,0.533,3.500,3
+Noida,"Ansal Plaza Mall, Greater Noida",5,2.520,2.000,4
+New Delhi,"Aggarwal City Plaza, Rohini",5,3.040,2.000,5
+Ahmedabad,Bodakdev,5,4.340,3.000,5
+New Delhi,"D Mall, Netaji Subhash Place",5,3.480,2.000,5
+New Delhi,"DLF City Centre Mall, Shalimar Bagh",5,2.580,1.000,5
+New Delhi,"Jaypee Vasant Continental, Vasant Vihar",5,3.400,4.000,5
+New Delhi,"Shangri La's - Eros hotel, Janpath",5,3.880,4.000,5
+Noida,Sector 33,5,1.920,1.000,5
+Nagpur,Bajaj Nagar,5,3.860,2.000,5
+Coimbatore,Peelamedu,5,3.920,2.000,5
+Gurgaon,"DT Mega Mall, DLF Phase 1",5,3.360,2.000,5
+New Delhi,"Spark Mall, Kamla Nagar",5,3.320,2.000,5
+Noida,Sector 56,5,1.700,1.000,5
+Pensacola,Pensacola Beach,5,4.060,3.000,5
+Ludhiana,"Main Market, Sarabha Nagar",5,4.080,3.000,5
+New Delhi,"JMD Kohinoor Mall, Greater Kailash",5,3.380,1.000,5
+Gurgaon,DLF Cyber City,5,3.460,3.000,5
+New Delhi,"Cross River Mall, Karkardooma",5,3.320,2.000,5
+Chandigarh,"Elante Mall, Chandigarh Industrial Area",5,4.120,3.000,5
+New Delhi,Moti Bagh,5,3.180,2.000,5
+Guwahati,Uzan Bazaar,5,4.020,2.000,5
+New Delhi,"Eros Hotel, Nehru Place",5,3.720,4.000,5
+Amritsar,Ranjit Avenue,5,3.560,2.000,5
+New Delhi,Greater Kailash (GK) 3,5,3.420,2.000,5
+New Delhi,"MGF Metropolitan Mall, Saket",5,3.640,4.000,5
+Puducherry,MG Road,5,3.860,3.000,5
+Noida,"Tulip Mall, Sector 48, Noida",5,0.520,2.000,3
+Gainesville,Dahlonega,5,4.020,2.000,5
+Ghaziabad,Indirapuram,5,2.660,1.000,3
+Davenport,Bettendorf,5,4.220,2.000,5
+Faridabad,Sector 9,5,0.620,1.000,5
+New Delhi,"Unity One Mall, Janakpuri",5,3.260,1.000,5
+Gurgaon,"Unitech Cyber Park, Sector 39, Gurgaon",5,2.060,2.000,4
+Noida,Sector 52,5,1.220,1.000,2
+Faridabad,Sector 12,5,1.200,1.000,4
+Chandigarh,Sector 35,5,3.960,2.000,5
+Bhopal,Maharana Pratap Nagar,5,3.840,2.000,5
+Bhopal,Arera Colony,5,3.940,2.000,4
+Tampa Bay,Hyde Park,5,4.260,3.000,5
+New Delhi,"The Leela Palace, Chanakyapuri",5,3.780,4.000,5
+Dehradun,Rajpur,5,4.180,3.000,5
+Noida,Sector 3,5,1.940,1.000,4
+Rest of Hawaii,Lahaina,5,4.360,2.000,4
+Noida,Sector 61,5,1.300,1.000,5
+Kolkata,Park Street Area,4,4.225,3.000,4
+Edinburgh,New Town,4,4.025,3.000,4
+Guwahati,Zoo Tiniali,4,4.225,2.000,4
+Pune,Koregaon Park,4,4.250,2.500,4
+Nashik,Satpur,4,3.425,2.500,4
+Aurangabad,Nirala Bazar,4,3.425,2.000,4
+New Delhi,Mandi House,4,1.625,1.000,3
+Kanpur,Mall Road,4,3.925,2.000,4
+Surat,Piplod,4,4.050,3.000,4
+Noida,"Centre Stage Mall, Sector 18",4,3.100,3.500,4
+Noida,Brahmaputra Shopping Complex,4,3.525,1.000,4
+Surat,Vesu,4,3.600,3.000,4
+Edinburgh,Leith,4,4.550,3.000,4
+Guwahati,Christian Basti,4,4.275,3.000,4
+New Delhi,"Crescent Square Mall, Rohini",4,3.150,2.500,3
+New Delhi,Panchsheel Park,4,3.525,2.000,4
+ï¿½ï¿½stanbul,Karakï¿½_y,4,4.400,2.500,4
+New Delhi,West Patel Nagar,4,3.675,1.000,4
+Gurgaon,Sikandarpur,4,0.000,1.000,4
+Kolkata,Ballygunge,4,4.325,3.000,4
+Faridabad,"Crown Plaza Mall, Sector 15, Faridabad",4,2.925,1.500,4
+Manchester,Northern Quarter,4,4.275,3.000,4
+Gainesville,Helen,4,3.475,1.500,4
+Faridabad,Sector 46,4,2.300,1.500,4
+Goa,Panaji,4,4.475,3.500,4
+Noida,"Jaypee Greens Golf & Spa Resort, Surajpur",4,3.250,3.500,4
+Faridabad,Sector 28,4,1.375,1.000,4
+Faridabad,Sector 35,4,0.000,1.000,4
+Gurgaon,"MGF Mega City Mall, MG Road",4,3.650,3.000,4
+New Delhi,"The Taj Palace Hotel, Chanakyapuri",4,3.800,4.000,4
+Tampa Bay,Downtown St Petersburg,4,4.225,2.000,4
+Faridabad,NIT,4,0.000,1.500,4
+New Delhi,"The Suryaa New Delhi, New Friends Colony",4,3.425,4.000,4
+Noida,Sector 19,4,1.600,1.500,4
+New Delhi,The Leela Ambience Convention Hotel,4,3.775,4.000,4
+New Delhi,Delhi Cantt.,4,0.000,1.000,4
+Rest of Hawaii,Kihei,4,4.350,3.000,4
+Faridabad,Sector 11,4,2.950,1.500,4
+Gurgaon,DLF Phase 5,4,3.675,1.000,4
+Bhubaneshwar,Chandrasekharpur,4,4.250,2.000,4
+Colombo,"Cinnamon Gardens, Colombo 07",4,3.825,3.000,4
+New Delhi,ITO,4,3.250,1.000,3
+Gurgaon,"Ansal Plaza Mall, Palam Vihar",4,2.250,1.000,4
+Augusta,Evans,4,4.075,2.000,4
+New Delhi,INA,4,2.400,1.500,4
+Brasï¿½_lia,Asa Norte,4,3.575,2.000,4
+Noida,Sector 49,4,2.425,1.000,4
+Patna,Golambar,4,3.425,2.000,3
+Patna,Fraser Road Area,4,3.475,3.000,4
+Orlando,I-Drive/Universal,4,4.475,3.500,4
+Gurgaon,"Park Plaza, Sushant Lok",4,3.500,4.000,4
+New Delhi,"Aditya Mega Mall, Karkardooma",4,3.275,2.000,4
+New Delhi,Aerocity,4,1.600,2.000,4
+Amritsar,INA Colony,3,3.500,1.000,3
+Amritsar,White Avenue,3,3.800,2.000,2
+New Delhi,Asaf Ali Road,3,2.033,1.000,3
+Abu Dhabi,Najda,3,4.100,3.000,3
+Agra,Agra Cantt,3,3.667,2.000,2
+Wellington City,Wellington Central,3,4.033,4.000,3
+New Delhi,"Aggarwal City Mall, Pitampura",3,3.033,3.000,2
+New Delhi,"City Square Mall, Rajouri Garden",3,3.167,3.000,3
+Pretoria,Waterkloof,3,4.167,3.000,3
+Gurgaon,"Raheja Mall, Sohna Road",3,2.833,2.000,3
+Pasig City,Kapitolyo,3,4.633,3.000,3
+Singapore,"Marina Centre, Downtown Core",3,3.567,4.000,3
+Auckland,Britomart,3,4.567,3.000,3
+Auckland,Mt Eden,3,4.167,3.000,3
+Patna,Sri Krishnapuri,3,3.333,2.000,2
+Gurgaon,"Hong Kong Bazaar Mall, Sector 57, Gurgaon",3,3.000,2.000,3
+Lucknow,Hazratganj,3,4.167,2.000,3
+New Delhi,Karampura,3,3.533,1.000,2
+Sharjah,Abu Shagara,3,3.933,3.000,3
+Sharjah,Al Majaz,3,4.033,4.000,3
+Sharjah,University City,3,4.167,4.000,3
+Ludhiana,Gurdev Nagar,3,3.900,3.000,3
+Gurgaon,"Le Meridien Gurgaon, MG Road",3,3.700,4.000,2
+Gurgaon,"Leisure Inn, Sector 14, Gurgaon",3,3.000,3.000,3
+Patna,Lodipur,3,3.400,3.000,3
+Surat,Adajan Gam,3,3.933,3.000,3
+Surat,Athwa,3,4.033,3.000,3
+Surat,City Light,3,4.133,2.000,3
+Kochi,Kakkanad,3,3.800,2.000,3
+Gurgaon,Omaxe Gurgaon Mall,3,3.367,2.000,3
+Pretoria,Brooklyn,3,4.400,4.000,3
+Bhopal,TT Nagar,3,4.000,2.000,3
+New Delhi,"Sheraton New Delhi Hotel, Saket",3,4.067,4.000,3
+Manchester,Spinningfields,3,4.333,2.000,3
+Mandaluyong City,"SM Megamall, Ortigas, Mandaluyong City",3,4.700,4.000,3
+New Delhi,"TDI Mall, Rajouri Garden",3,3.500,2.000,3
+New Delhi,"Taj Vivanta, Khan Market",3,3.633,4.000,3
+Goa,Anjuna,3,4.567,4.000,3
+Goa,Baga,3,4.100,4.000,3
+Gainesville,Flowery Branch,3,4.067,2.000,3
+Ankara,Gazi Osman Paï¿½ï¿½a,3,4.467,4.000,3
+Tampa Bay,Seminole Heights,3,4.433,3.000,3
+Birmingham,"Bullring Shopping Centre, Southside",3,3.833,2.000,3
+Gurgaon,Sector 12,3,2.000,2.000,2
+Gurgaon,Sector 43,3,3.433,2.000,3
+Gurgaon,"The Bristol Hotel, DLF Phase 1",3,3.167,4.000,3
+Gurgaon,"The Westin Gurgaon, Sector 29",3,3.867,4.000,3
+Gurgaon,"Two Horizon Center, Golf Course Road",3,3.667,4.000,3
+Faridabad,Sector 41,3,1.000,2.000,3
+Faridabad,Sector 42,3,0.000,1.000,2
+New Delhi,"The Park, Connaught Place",3,3.467,4.000,3
+New Delhi,"The Uppal, Aerocity",3,3.067,4.000,3
+New Delhi,"The Village Restaurant Complex, Khel Gaon Marg",3,3.833,3.000,3
+Sï¿½ï¿½o Paulo,Itaim Bibi,3,2.833,3.000,3
+Sï¿½ï¿½o Paulo,Jardim Paulista,3,3.733,4.000,3
+Faridabad,"Hotel Saffron Kiran, Faridabad",3,0.000,3.000,3
+Faridabad,"Parsavnath City Mall, Sector 12, Faridabad",3,2.000,2.000,3
+New Delhi,Uday Park,3,3.733,2.000,3
+Gurgaon,Sector 8,3,2.000,1.000,2
+Kochi,Panampilly Nagar,3,4.033,2.000,3
+New Delhi,"Maidens Hotel, Civil Lines",3,3.133,4.000,3
+Noida,Sector 7,3,2.000,2.000,3
+Brasï¿½_lia,ï¿½guas Claras,3,3.667,4.000,3
+Cape Town,CBD,3,4.100,2.000,3
+Cape Town,Green Point,3,3.733,3.000,3
+New Delhi,Essex Farms,3,3.500,3.000,3
+New Delhi,"Fun City Mall, Prashant Vihar",3,0.000,1.000,3
+Mangalore,Kadri,3,3.700,3.000,3
+Noida,"Harsha Mall, Greater Noida",3,2.900,2.000,2
+Noida,"Hotel Golf View, Sector 37, Noida",3,1.000,3.000,3
+Dubai,"The Dubai Mall,Downtown Dubai",3,4.067,3.000,3
+Kanpur,Swaroop Nagar,3,3.700,2.000,3
+New Delhi,"Pride Plaza Hotel, Aerocity",3,1.033,4.000,3
+New Delhi,"Roseate House, Aerocity",3,2.167,4.000,3
+Kochi,Kacheripady,3,4.067,2.000,3
+New Delhi,"Metro Walk Mall, Rohini",3,3.133,3.000,3
+Noida,"Park Plaza Hotel, Sector 55, Noida",3,3.567,4.000,3
+Dehradun,Jakhan,3,4.400,4.000,3
+Nagpur,Civil Lines,3,3.967,2.000,3
+Nagpur,Dharampeth,3,3.933,2.000,3
+Nagpur,Sitabuldi,3,3.700,3.000,3
+Mumbai,Lower Parel,3,4.133,3.000,3
+Mumbai,Malad West,3,4.333,2.000,3
+Mysore,Chamrajpura,3,3.667,3.000,3
+Dalton,Ringgold,3,4.200,1.000,3
+Noida,Sector 20,3,1.867,1.000,3
+Noida,Sector 21,3,2.100,1.000,3
+Noida,Sector 26,3,2.200,1.000,3
+Rio de Janeiro,Copacabana,3,4.467,3.000,3
+Rio de Janeiro,Ipanema,3,4.700,4.000,3
+Bangalore,Koramangala 5th Block,3,4.500,2.000,3
+Bhopal,"DB City, Maharana Pratap Nagar",3,4.033,3.000,3
+Ranchi,Hindpiri,3,3.567,1.000,3
+Ranchi,Kanka,3,3.267,2.000,3
+Indore,New Palasia,3,4.033,3.000,3
+Mysore,Jayalakhsmipuram,3,3.833,2.000,3
+Noida,Sector 60,3,0.000,1.000,3
+Dalton,Calhoun,3,4.167,2.000,3
+Dalton,Fort Oglethorpe,3,4.367,2.000,3
+Varanasi,Bhelupur,3,3.500,2.000,3
+Varanasi,Dashaswmedh Road,3,3.667,2.000,3
+Varanasi,Lanka,3,3.400,3.000,3
+Mysore,Gokulam,3,3.633,2.000,3
+New Delhi,"Bellagio, Ashok Vihar Phase 2",3,3.300,3.000,3
+Nashik,Anand Wali Goan,3,3.667,3.000,3
+Noida,Sector 39,3,3.133,2.000,3
+Noida,Sector 5,3,2.433,1.000,3
+Chennai,Velachery,3,4.500,3.000,3
+Dehradun,Hathibarkala Salwala,3,4.000,3.000,3
+Pune,Kalyani Nagar,3,4.200,3.000,3
+Johannesburg,Parkhurst,3,4.067,4.000,3
+Kanpur,Ashok Nagar,3,3.733,3.000,3
+Vizag,Siripuram,2,4.000,2.000,2
+Vizag,Maharani Peta,2,3.650,2.000,2
+Vizag,Lawsons Bay,2,3.700,2.000,2
+Vizag,Kirlampudi Layout,2,4.350,3.500,2
+Vizag,Dwaraka Nagar,2,4.250,1.500,2
+Ahmedabad,Navrangpura,2,4.200,2.000,2
+Ahmedabad,Gurukul,2,4.050,2.000,2
+Ahmedabad,Ellis Bridge,2,4.500,2.000,2
+Agra,"Radisson Blu, Tajganj",2,3.850,2.500,2
+Agra,"ITC Mughal, Tajganj",2,4.150,4.000,2
+Varanasi,Sigra,2,3.350,2.000,2
+Varanasi,"Radisson Hotel, Nadesar",2,3.300,3.500,2
+ï¿½ï¿½stanbul,Kuruï¿½_eï¿½ï¿½me,2,3.850,4.000,2
+Agra,Civil Lines,2,4.100,2.500,2
+Abu Dhabi,"World Trade Center Mall, Al Markaziya",2,4.450,4.000,2
+Abu Dhabi,"Al Wahda Mall, Al Wahda",2,4.350,4.000,2
+Abu Dhabi,Al Dhafrah,2,4.350,2.500,2
+Abu Dhabi,"Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",2,4.600,4.000,1
+Jakarta,Senopati,2,4.300,3.000,2
+Savannah,Tybee Island,2,3.850,2.000,2
+Aurangabad,Usmanpura,2,3.300,2.000,2
+Pune,Senapati Bapat Road,2,4.150,2.500,2
+Pune,Baner,2,3.950,3.500,2
+Puducherry,"The Promenade, White Town",2,3.800,4.000,2
+Jakarta,"Grand Indonesia Mall, Thamrin",2,4.350,3.000,2
+Jaipur,Vaishali Nagar,2,3.250,3.000,2
+Jaipur,Lal Kothi,2,4.150,2.000,2
+Jaipur,"Holiday Inn Jaipur City Centre, Bais Godam",2,4.400,4.000,2
+Jaipur,Civil Lines,2,4.050,3.000,2
+New Delhi,Pragati Maidan,2,3.900,2.000,2
+New Delhi,"Premier Inn, Shalimar Bagh",2,3.050,4.000,2
+Indore,Old Palasia,2,3.900,3.000,2
+Indore,Bhawar Kuan,2,3.900,3.000,2
+Hyderabad,Madhapur,2,4.300,2.500,2
+Ranchi,Harmu,2,3.450,2.000,2
+Bangalore,Sarjapur Road,2,4.200,3.000,2
+Bangalore,Marathahalli,2,4.500,3.000,2
+Sandton,"Pineslopes Shopping Centre, Fourways",2,4.350,4.000,2
+Sandton,Bryanston,2,4.400,3.500,2
+Rio de Janeiro,Leme,2,4.200,3.000,2
+Rio de Janeiro,Leblon,2,4.500,4.000,2
+Kochi,Edappally,2,4.100,1.500,1
+Hyderabad,Hitech City,2,4.300,2.500,2
+Hyderabad,Banjara Hills,2,4.800,3.000,2
+Hepburn Springs,Hepburn Springs,2,3.800,1.500,2
+Guwahati,Ulubari,2,4.250,3.500,2
+Guwahati,Chandmari,2,4.400,2.000,1
+Guwahati,"Anil Plaza, Christian Basti",2,4.250,3.000,2
+New Delhi,"Radisson Blu, Paschim Vihar",2,3.200,4.000,2
+New Delhi,Mathura Road,2,2.100,2.500,2
+Kolkata,"Sector 5, Salt Lake",2,4.250,3.000,2
+Kolkata,"Acropolis Mall, Kasba",2,4.400,3.000,2
+Kochi,"LuLu Mall, Edappally",2,4.250,2.000,2
+Kochi,Kaloor,2,4.200,2.000,1
+Gurgaon,Sector 57,2,3.000,1.500,2
+Gurgaon,Sector 54,2,3.150,2.500,2
+Gurgaon,Sector 50,2,1.650,1.500,2
+Gurgaon,"Vivanta by Taj, Sector 44, Gurgaon",2,3.900,4.000,2
+Gurgaon,"Trident, Udyog Vihar",2,3.400,4.000,2
+Gurgaon,"The Westin Sohna Resort & Spa, Sohna Road",2,3.550,4.000,2
+Gurgaon,"The Habitare Hotel, Sector 14",2,3.000,2.500,2
+Gurgaon,Sector 30,2,3.900,2.500,2
+Gurgaon,"Sahara Mall, MG Road",2,3.000,2.500,2
+Gurgaon,Sadar Bazar,2,3.150,1.000,2
+Gurgaon,"Suncity Business Tower, Golf Course Road",2,3.950,2.500,2
+Gurgaon,South City 1,2,0.000,2.000,2
+Pretoria,"Menlyn Shopping Centre, Menlyn",2,3.700,3.500,2
+Pretoria,Faerie Glen,2,4.050,4.000,2
+Birmingham,City Centre,2,4.400,3.000,2
+Bhubaneshwar,Sahid Nagar,2,4.000,2.000,2
+Bhubaneshwar,"BMC Bhawani Mall, Sahid Nagar",2,4.000,2.000,2
+Pocatello,Lava Hot Springs,2,3.600,1.000,2
+Pensacola,Perdido Key,2,4.550,2.000,2
+Gurgaon,"Ninex City Mart Mall, Sohna Road",2,3.350,2.000,2
+New Delhi,Lajpat Nagar 4,2,3.800,1.500,2
+Auckland,Federal Street,2,4.700,3.500,2
+Pasay City,"SM by the Bay, Mall of Asia Complex, Pasay City",2,4.100,4.000,2
+Orlando,Mills 50,2,4.500,2.000,2
+Puducherry,Auroville,2,3.800,2.500,2
+Pretoria,"The Club Centre, Hazelwood, Near Waterkloof",2,4.300,4.000,2
+Singapore,"Lavender, Kallang",2,3.450,3.500,2
+Sharjah,Al Nahda,2,3.300,2.500,2
+Sharjah,Al Mareija,2,4.150,3.000,2
+New Delhi,Kapashera,2,3.200,2.000,1
+New Delhi,"Jaypee Siddharth, Rajendra Place",2,3.450,4.000,2
+London,"Upper St Martin's Lane, Covent Garden",2,4.500,2.500,2
+London,Mayfair,2,4.600,4.000,2
+Gurgaon,Hyatt Place Gurgaon,2,1.900,3.500,2
+Gurgaon,"Hotel Haute.Monde, Sector 15",2,2.800,3.000,2
+Gurgaon,"Hotel Grenville, MG Road",2,1.400,2.500,2
+Gurgaon,"Hotel Clark Inn, Sector 15",2,1.400,3.000,1
+New Delhi,Shanti Niketan Marg,2,3.100,1.500,2
+Birmingham,Moseley,2,2.000,2.500,2
+Patna,Khajpura,2,3.500,2.500,2
+Gurgaon,"Fortune Select Excalibur, Sohna Road",2,3.800,3.500,2
+Gurgaon,"DoubleTree by Hilton, Sector 56",2,3.500,4.000,2
+Gurgaon,"DLF Star Mall, Sector 30",2,4.150,3.500,2
+Gurgaon,"Kingdom of Dreams, Sector 29",2,3.700,2.500,2
+Gurgaon,"JMD Regent Arcade Mall, MG Road",2,3.200,3.000,2
+Gurgaon,"ILD Trade Centre Mall, Sohna Road",2,3.050,1.500,2
+Ludhiana,Civil Lines,2,4.050,2.000,2
+New Delhi,"Hotel Regent Grand, Karol Bagh",2,1.500,2.000,2
+New Delhi,"Hotel Classic Diplomat, Mahipalpur",2,0.000,2.500,2
+New Delhi,"Hotel City Park, Pitampura",2,3.350,4.000,2
+New Delhi,"Hotel Broadway, Daryaganj",2,3.650,3.500,2
+New Delhi,"Holiday Inn, Mayur Vihar",2,3.550,3.500,2
+New Delhi,"Southern Park Mall, Saket",2,3.450,3.500,2
+Gurgaon,"Crowne Plaza, Sector 29",2,3.800,4.000,2
+Gurgaon,"Courtyard by Marriott, Sushant Lok",2,1.600,4.000,1
+Gurgaon,"Country Inn & Suites by Carlson, Sector 12",2,3.250,3.000,2
+Gurgaon,"Best Western Skycity Hotel, Sector 15, Gurgaon",2,2.850,3.500,2
+Gurgaon,"Ambience Mall, Gurgaon",2,4.150,3.500,2
+Goa,Candolim,2,4.000,3.000,2
+Ghaziabad,Surya Nagar,2,3.250,1.500,2
+New Delhi,"The Grand New Delhi, Vasant Kunj",2,3.450,4.000,2
+Manchester,"The Midland, Deansgate",2,4.250,3.500,2
+Manchester,Rusholme,2,4.100,2.000,2
+Manchester,Oxford Road,2,3.500,2.000,2
+Manchester,Market Street,2,4.100,3.500,2
+Manchester,Deansgate,2,4.200,3.500,2
+Manchester,Cheetham Hill,2,3.300,2.000,2
+Ankara,Kï¿½_ï¿½_ï¿½_k Esat,2,4.500,2.000,2
+Ankara,KÛ±zÛ±lay,2,4.000,3.000,2
+Faridabad,Sector 34,2,2.700,1.500,2
+Faridabad,Sector 29,2,1.550,1.500,2
+Faridabad,Sector 19,2,3.150,1.500,2
+Faridabad,"The Atrium, Suraj Kund",2,3.050,2.500,2
+New Delhi,"The Lodhi, Lodhi Road",2,3.350,2.500,2
+New Delhi,"West End Mall, Janak Puri",2,2.750,1.500,2
+New Delhi,Vikas Marg,2,1.700,1.000,2
+Faridabad,"Eldeco Station 1 Mall, Sector 12, Faridabad",2,1.400,1.000,2
+Taguig City,"SM Aura Premier, Bonifacio Global City, Taguig City",2,4.600,4.000,2
+Sï¿½ï¿½o Paulo,Repï¿½_blica,2,4.350,4.000,2
+Sï¿½ï¿½o Paulo,Consolaï¿½_ï¿½ï¿½o,2,3.600,3.500,2
+Sï¿½ï¿½o Paulo,"Bela Vista, Centro",2,4.450,4.000,2
+New Delhi,"Ginger Hotel, Vivek Vihar",2,2.000,2.500,2
+New Delhi,Friends Colony,2,4.050,3.000,2
+New Delhi,Feroze Shah Road,2,2.100,1.000,2
+Noida,"Shopprix Mall, Sector 61, Noida",2,1.550,1.500,2
+Noida,Sector 8,2,1.600,1.000,2
+Cape Town,Gardens,2,4.450,3.500,2
+Dubai,Al Karama,2,4.200,2.000,2
+Doha,Umm Ghuwailina,2,4.200,4.000,2
+Noida,"Fortune Inn Grazia, Sector 27, Noida",2,3.300,3.500,2
+New Delhi,"ibis New Delhi, Aerocity",2,1.550,2.000,2
+Orlando,Disney: Downtown Disney,2,4.500,3.500,2
+Mangalore,Lalbagh,2,3.850,2.000,2
+New Delhi,"DLF Emporio Mall, Vasant Kunj",2,3.650,3.000,2
+Mumbai,Powai,2,4.350,3.000,2
+Mumbai,Borivali West,2,4.050,2.500,2
+Des Moines,Clive,2,4.050,2.000,2
+Des Moines,Ames,2,4.700,2.000,2
+Dehradun,Karanpur,2,3.900,3.000,2
+Des Moines,West Des Moines,2,4.100,2.500,2
+Noida,Sector 1,2,0.000,1.000,2
+Noida,"Mosaic Hotels, Sector 18, Noida",2,3.250,3.500,2
+Noida,"Logix Cyber Park, Sector 62, Noida",2,0.000,1.000,2
+Noida,"Jaypee Greens, Greater Noida, Noida",2,1.650,3.500,2
+Chandigarh,Sector 8,2,4.250,2.000,2
+Chandigarh,Sector 7,2,3.850,3.000,2
+Chandigarh,Sector 26,2,4.400,3.000,2
+Des Moines,East Village,2,4.500,1.500,2
+Noida,Sector 55,2,1.450,1.000,1
+New Delhi,"DDA Market, Kalu Sarai, Hauz Khas",2,1.500,1.000,2
+New Delhi,"Crowne Plaza, Mayur Vihar Phase 1",2,3.350,4.000,2
+New Delhi,"Crowne Plaza Hotel, Rohini",2,3.600,3.500,2
+Varanasi,Nadesar,2,3.500,2.500,2
+Varanasi,Assi Ghat,2,3.550,2.500,2
+Noida,Sector 30,2,3.700,2.000,2
+Colombo,"Havelock Town, Colombo 05",2,4.150,2.500,2
+Colombo,"Bambalapitiya, Colombo 04",2,2.900,2.500,2
+Coimbatore,Saibaba Colony,2,4.550,2.000,2
+Coimbatore,RS Puram,2,4.250,2.500,2
+Dehradun,Chukkuwala,2,3.700,3.000,2
+Cape Town,"Victoria Wharf, V & A Waterfront",2,4.250,3.500,2
+Cape Town,V & A Waterfront,2,3.950,4.000,2
+Cape Town,Sea Point,2,4.600,2.500,2
+Chennai,T. Nagar,2,4.450,3.500,2
+Chennai,Nungambakkam,2,4.400,3.000,2
+Chennai,Anna Nagar East,2,4.100,2.000,2
+Noida,Sector 40,2,1.700,1.000,2
+Noida,Sector 4,2,1.650,1.500,2
+Nashik,"Bon Vivant, College Road",2,3.550,2.500,2
+New Delhi,Anand Lok,2,3.800,2.000,2
+Cedar Rapids/Iowa City,Coralville,2,3.950,2.000,2
+Ankara,Balgat,2,4.400,3.000,2
+Amritsar,Basant Nagar,2,3.650,1.500,2
+Ahmedabad,Vastrapur,2,3.950,2.500,2
+ï¿½ï¿½stanbul,Moda,1,4.000,2.000,1
+Abu Dhabi,Al Mushrif,1,4.200,3.000,1
+Abu Dhabi,"Crowne Plaza Abu Dhabi, Al Markaziya",1,4.400,4.000,1
+Abu Dhabi,"Dalma Mall, Mussafah Sanaiya",1,4.000,3.000,1
+Abu Dhabi,Madinat Zayed,1,3.600,2.000,1
+Abu Dhabi,"Madinat Zayed Shopping Centre, Madinat Zayed",1,4.500,3.000,1
+Agra,Rakabganj,1,4.100,2.000,1
+Agra,Khandari,1,3.600,3.000,1
+Agra,"Courtyard by Marriott Agra, Tajganj",1,4.000,4.000,1
+Vizag,"CMR Central Mall, Maddilapalem",1,4.600,2.000,1
+Vineland Station,Vineland Station,1,4.300,4.000,1
+Victor Harbor,Victor Harbor,1,3.600,2.000,1
+Vernonia,Vernonia,1,4.300,1.000,1
+Varanasi,Sunderpur,1,3.500,3.000,1
+Varanasi,Shivala,1,3.500,4.000,1
+Varanasi,Godaulia,1,4.100,1.000,1
+Ankara,"Armada AVM, Sï¿½_ï¿½ï¿½ï¿½_tï¿½_zï¿½_, Yenimahalle",1,4.200,3.000,1
+Amritsar,Hathi Gate,1,4.000,1.000,1
+Allahabad,"Vinayak City Centre Mall, Civil Lines",1,3.300,3.000,1
+Allahabad,Tagore Town,1,3.500,2.000,1
+Albany,Sylvester,1,3.400,1.000,1
+Ahmedabad,"The Fern, Sola",1,4.100,3.000,1
+Nagpur,Ramdaspeth,1,4.000,3.000,1
+Nagpur,Pratap Nagar,1,4.500,2.000,1
+Nagpur,Mohan Nagar,1,4.400,3.000,1
+Nagpur,Dhantoli,1,4.300,3.000,1
+Mysore,"Pai Hotels, Doora",1,3.700,3.000,1
+Mysore,Kuvempunagar,1,3.500,2.000,1
+Mysore,Ittige Gudu,1,3.800,4.000,1
+New Delhi,"City Centre Mall, Rohini",1,3.400,3.000,1
+New Delhi,Chhatarpur,1,2.700,2.000,1
+New Delhi,Aaya Nagar,1,0.000,2.000,1
+New Delhi,"ARSS Mall, Paschim Vihar",1,3.100,2.000,1
+Nashik,"SSK Solitaire, Satpur",1,3.400,3.000,1
+Nashik,Parijat Nagar,1,3.800,4.000,1
+Nashik,"City Center, Parijat Nagar",1,3.800,4.000,1
+New Delhi,"Centaur Hotel, Aerocity",1,0.000,3.000,1
+New Delhi,"Best Western Taurus Hotel, Mahipalpur",1,2.700,3.000,1
+Mangalore,Bhavathi,1,4.200,2.000,1
+New Delhi,Durga Puri,1,2.900,1.000,1
+New Delhi,Dr. Zakir Hussain Marg,1,2.900,1.000,1
+Mysore,Doora,1,4.200,1.000,1
+Mumbai,Vile Parle East,1,3.600,3.000,1
+Mumbai,"Versova, Andheri West",1,4.100,3.000,1
+Mumbai,"Ramee Guestline Hotel, Juhu",1,4.000,3.000,1
+Mumbai,"Majiwada, Thane West",1,3.900,3.000,1
+Mumbai,"Linking Road, Bandra West",1,3.800,3.000,1
+Mumbai,Juhu,1,3.800,3.000,1
+Mumbai,"Hill Road, Bandra West",1,4.100,3.000,1
+Mumbai,Fort,1,4.200,3.000,1
+Mumbai,Borivali East,1,4.000,3.000,1
+Mumbai,Azad Nagar,1,4.000,2.000,1
+Nagpur,Vivekanand Nagar,1,3.800,3.000,1
+Nagpur,Sadar,1,4.200,3.000,1
+Makati City,"Century City Mall, Poblacion, Makati City",1,4.800,3.000,1
+New Delhi,"Gourmet Hub, Pashim Vihar",1,3.400,2.000,1
+New Delhi,"Garden of Five Senses, Saket",1,4.200,4.000,1
+Montville,Montville,1,2.400,3.000,1
+Monroe,Monroe,1,3.600,2.000,1
+Mohali,Sector 70,1,4.300,2.000,1
+Miller,Miller,1,3.400,1.000,1
+Middleton Beach,Middleton Beach,1,3.800,3.000,1
+Mc Millan,Mc Millan,1,2.400,1.000,1
+Mayfield,Mayfield,1,2.900,2.000,1
+Mangalore,"The Ocean Pearl, Kodailbail",1,3.700,2.000,1
+Mangalore,Kodailbail,1,4.100,3.000,1
+Mangalore,Kankanady,1,3.700,4.000,1
+Mangalore,KS Rao Nagar,1,3.700,3.000,1
+Mangalore,Hampankatta,1,3.600,2.000,1
+Mangalore,"Goldfinch Hotel, Balmatta",1,3.500,4.000,1
+Macedon,Macedon,1,3.500,2.000,1
+Ludhiana,"Westend Mall, Rajguru Nagar",1,3.900,3.000,1
+Ludhiana,"Silver Arc Mall, Gurdev Nagar",1,3.800,3.000,1
+Ludhiana,Shastri Nagar,1,4.600,2.000,1
+Ludhiana,Sarabha Nagar,1,4.200,2.000,1
+Ludhiana,Rajguru Nagar,1,3.900,3.000,1
+Ludhiana,PAU,1,3.500,3.000,1
+Ludhiana,"Hyatt Regency, Rajguru Nagar",1,4.300,4.000,1
+Ludhiana,BRS Nagar,1,4.100,3.000,1
+Ludhiana,Aggar Nagar,1,3.500,3.000,1
+Ludhiana,"A Hotel, Gurdev Nagar",1,3.600,2.000,1
+New Delhi,"Holiday Inn, Aerocity",1,3.300,3.000,1
+Mangalore,Attavar,1,3.600,2.000,1
+Mandaluyong City,"Edsa Shangri-La, Ortigas, Mandaluyong City",1,4.400,4.000,1
+Manchester,Levenshulme,1,3.900,2.000,1
+Makati City,"Little Tokyo, Legaspi Village, Makati City",1,4.500,3.000,1
+New Delhi,"Kasbah, Greater Kailash (GK) 1",1,4.500,4.000,1
+New Delhi,Jor Bagh,1,3.100,1.000,1
+New Delhi,JW Marriott New Delhi,1,3.300,4.000,1
+Lucknow,Sadar Bazaar,1,4.000,2.000,1
+Lucknow,"Royal Inn, Hazratganj",1,4.200,3.000,1
+Lucknow,"Riverside Mall, Gomti Nagar",1,4.700,4.000,1
+Lucknow,Renaissance Lucknow Hotel,1,4.200,4.000,1
+Lucknow,Lalbagh,1,4.200,3.000,1
+Lucknow,Aminabad,1,4.900,1.000,1
+Lorn,Lorn,1,3.600,2.000,1
+London,"Walker's Court, Soho",1,4.600,3.000,1
+London,"Tavistock Court, Covent Garden",1,4.100,2.000,1
+London,"Portman Mews South, Marble Arch",1,4.500,3.000,1
+London,"Long Acre, Covent Garden",1,3.800,2.000,1
+London,"Lexington Street, Soho",1,4.900,2.000,1
+Macon,Bonaire,1,3.900,2.000,1
+London,"Conduit Street, Mayfair",1,4.500,4.000,1
+London,Chelsea,1,4.700,4.000,1
+London,"Charlotte Street, Fitzrovia",1,4.600,3.000,1
+London,"Broadwick Street, Soho",1,4.700,4.000,1
+London,"Boundary Street, Shoreditch",1,4.500,3.000,1
+London,"Bishopsgate, City Of London",1,4.900,3.000,1
+London,"Beak Street, Soho",1,4.900,2.000,1
+London,"Archer Street, Soho",1,4.500,3.000,1
+London,"Albemarle Street, Mayfair",1,4.700,4.000,1
+Lincoln,Haymarket,1,4.500,2.000,1
+Lakeview,Lakeview,1,3.600,1.000,1
+Lakes Entrance,Lakes Entrance,1,3.800,1.000,1
+Kolkata,Southern Avenue,1,4.000,3.000,1
+Kolkata,"Silver Spring Arcade, Science City Area",1,4.100,3.000,1
+New Delhi,"Lemon Tree Premier, Aerocity",1,3.500,3.000,1
+New Delhi,Kashmiri Gate,1,3.300,2.000,1
+Kanpur,"Rave Moti, Kakadeo",1,3.800,3.000,1
+Kanpur,"Rave 3, Tilak Nagar",1,3.900,4.000,1
+Kanpur,Parade,1,3.900,1.000,1
+Kanpur,IIT Kanpur,1,3.500,2.000,1
+Kanpur,Hotel Royal Cliff,1,4.000,4.000,1
+New Delhi,Mansingh Road,1,0.000,1.000,1
+Kolkata,"Quest Mall, Ballygunge",1,4.400,3.000,1
+Kolkata,"Mani Square Mall, Kankurgachi",1,3.900,3.000,1
+Kolkata,Kidderpore,1,4.600,2.000,1
+Kolkata,Golpark,1,4.200,2.000,1
+Kolkata,Elgin,1,4.000,3.000,1
+Kolkata,Camac Street Area,1,4.400,3.000,1
+Kochi,Vyttila,1,3.600,2.000,1
+Kochi,Palarivattom,1,4.200,2.000,1
+London,"D'arblay Street, Soho",1,4.500,3.000,1
+London,Covent Garden,1,4.100,2.000,1
+Jakarta,Tebet,1,4.000,3.000,1
+Jakarta,Tanjung Duren,1,3.400,3.000,1
+Jakarta,"Taman Impian Jaya Ancol, Ancol",1,4.900,3.000,1
+Jakarta,"Plaza Festival, Kuningan",1,4.300,3.000,1
+Jakarta,Penjaringan,1,4.900,3.000,1
+Jakarta,"Kota Kasablanka, Tebet",1,4.400,3.000,1
+Jakarta,Kelapa Gading,1,4.200,3.000,1
+Jakarta,"Hotel Shangri-La, Sudirman",1,4.600,3.000,1
+New Delhi,Model Town 1,1,3.800,1.000,1
+Kochi,"Grand Hotel, MG Road",1,4.200,3.000,1
+Kochi,Fort Kochi,1,4.200,2.000,1
+Kochi,Chittoor Road,1,4.600,3.000,1
+Kanpur,"Z Square Mall, Mall Road",1,4.000,3.000,1
+Kanpur,Tilak Nagar,1,3.700,4.000,1
+Kanpur,"The Landmark Hotel, Mall Road",1,3.900,4.000,1
+Kanpur,"Status Club, Kanpur Cantonment",1,4.300,4.000,1
+Jakarta,"Gandaria City Mall, Gandaria",1,3.900,3.000,1
+Jakarta,Fatmawati,1,4.600,3.000,1
+Jakarta,Cengkareng,1,4.900,3.000,1
+Jaipur,Vidhyadhar Nagar,1,3.700,2.000,1
+Jaipur,Tonk Road,1,4.300,3.000,1
+Jaipur,Malviya Nagar,1,4.300,2.000,1
+Jaipur,"Hotel Clarks Amer, Malviya Nagar",1,4.900,4.000,1
+Jaipur,"Devraj Niwas, Bani Park",1,4.000,3.000,1
+Jaipur,"Chokhi Dhani Village Resort, Tonk Road",1,4.300,3.000,1
+Inverloch,Inverloch,1,3.700,1.000,1
+New Delhi,"Piccadily Hotel, Janakpuri",1,2.600,4.000,1
+Kanpur,Arya Nagar,1,3.300,2.000,1
+Johannesburg,Rosebank,1,4.500,4.000,1
+Johannesburg,Parktown North,1,4.200,4.000,1
+Johannesburg,Greenside,1,4.300,4.000,1
+Jakarta,Thamrin,1,4.300,3.000,1
+Hyderabad,"12th Square Building, Banjara Hills",1,4.300,3.000,1
+Huskisson,Huskisson,1,4.100,2.000,1
+Guwahati,Six Mile,1,4.000,2.000,1
+Guwahati,Dispur,1,4.100,2.000,1
+Gurgaon,"Woods Resort, Gurgaon",1,3.200,3.000,1
+New Delhi,Race Course,1,2.900,1.000,1
+Inner City,Marshalltown,1,4.900,4.000,1
+Inner City,City and Suburban,1,4.900,4.000,1
+Indore,YN Road,1,4.000,3.000,1
+Indore,"Sayaji Hotel, Vijay Nagar",1,4.300,4.000,1
+Indore,"Radisson Blu Hotel, Vijay Nagar",1,3.800,4.000,1
+Indore,"Infiniti Hotel, Vijay Nagar",1,4.100,4.000,1
+Indore,HIG-LIG,1,4.100,1.000,1
+Hyderabad,Ohri' Hitech City,1,4.100,3.000,1
+Hyderabad,Kondapur,1,4.200,3.000,1
+Hyderabad,Holiday Inn Express & Suites,1,4.300,3.000,1
+Gurgaon,"JMD Megapolis Mall, Sohna Road",1,3.400,1.000,1
+Gurgaon,"IBIS Hotel, Golf Course Road",1,2.700,3.000,1
+New Delhi,Shastri Park,1,0.000,2.000,1
+New Delhi,"Sector 15, Dwarka",1,3.100,1.000,1
+Gurgaon,"Ramada Gurgaon Central, Sector 44",1,3.500,3.000,1
+Gurgaon,"Plaza Mall, MG Road",1,3.000,4.000,1
+Gurgaon,"Park Inn, Sector 15, Gurgaon",1,3.200,3.000,1
+Gurgaon,"Omaxe Celebration Mall, Sohna Road, Gurgaon",1,2.200,2.000,1
+Gurgaon,Sector 5,1,2.800,1.000,1
+Gurgaon,Sector 53,1,0.000,1.000,1
+Gurgaon,"The Sapphire Mall, Sohna Road",1,3.300,2.000,1
+Gurgaon,"The Pllazio Hotel, Sector 29",1,3.600,4.000,1
+Gurgaon,"The Oberoi, Udyog Vihar",1,3.200,4.000,1
+Gurgaon,"The Galgotias, Sector 23",1,2.700,3.000,1
+Gurgaon,"The Claremont, MG Road",1,3.000,4.000,1
+Hyderabad,Gachibowli,1,3.800,3.000,1
+Goa,Calangute,1,3.700,3.000,1
+Goa,Betalbatim,1,4.400,4.000,1
+Goa,Arambol,1,4.600,3.000,1
+Goa,"Anjuna Beach, Anjuna",1,3.500,4.000,1
+Ghaziabad,Kaushambi,1,0.000,1.000,1
+New Delhi,"T3 Domestic Arrival, Aerocity",1,3.200,1.000,1
+New Delhi,Sheikh Sarai,1,3.100,1.000,1
+Gurgaon,"Cyber Greens, DLF Cyber City",1,2.800,2.000,1
+Gurgaon,"Country Inn & Suites, Sohna Road",1,3.400,3.000,1
+Gurgaon,"Country Inn & Suites by Carlson, Gurgaon",1,3.800,3.000,1
+Gurgaon,"Country Inn & Suites By Carlson, Udyog Vihar",1,3.500,4.000,1
+Gurgaon,"Central Arcade, DLF Phase 2, Gurgaon",1,3.900,2.000,1
+Goa,Vagator,1,4.200,4.000,1
+Gurgaon,"Fortune Select Global, MG Road",1,2.600,4.000,1
+Gurgaon,"Lemon Tree Premier, Sector 29",1,3.200,4.000,1
+Gurgaon,"Jukaso It Suites, Sector 14",1,2.800,3.000,1
+Faridabad,Dayal Bagh,1,0.000,1.000,1
+Faridabad,Badkal Lake,1,0.000,1.000,1
+New Delhi,Tughlakabad Institutional Area,1,3.700,2.000,1
+New Delhi,Trilokpuri,1,0.000,1.000,1
+New Delhi,Tilak Marg,1,0.000,1.000,1
+Faridabad,Sector 30,1,0.000,1.000,1
+Gainesville,Clarkesville,1,4.100,1.000,1
+Gainesville,Braselton,1,4.400,2.000,1
+Forrest,Forrest,1,3.700,2.000,1
+Flaxton,Flaxton,1,3.500,3.000,1
+Fernley,Fernley,1,3.700,1.000,1
+Faridabad,"Vibe by The LaLit Traveller, Mathura Road",1,3.300,3.000,1
+Faridabad,Sector 49,1,0.000,1.000,1
+Goa,Nerul,1,3.700,4.000,1
+Goa,Cavelossim,1,4.600,4.000,1
+Goa,"Calangute Beach, Calangute",1,4.300,4.000,1
+Edinburgh,"Twelve Picardy Place, New Town",1,4.200,4.000,1
+Edinburgh,Tollcross,1,4.000,2.000,1
+Edinburgh,Fountainbridge,1,3.900,3.000,1
+East Ballina,East Ballina,1,4.100,2.000,1
+Dubai,Umm Hurair,1,4.300,3.000,1
+Dubai,Trade Centre Area,1,3.700,3.000,1
+Dubai,Satwa,1,4.400,3.000,1
+Dubai,"Nassima Royal Hotel, Trade Centre Area",1,4.900,4.000,1
+Dubai,Mankhool,1,4.400,3.000,1
+Dubai,"Mall of the Emirates, Barsha 1",1,4.300,3.000,1
+Dubai,"Kite Beach, Umm Suqeim",1,4.300,3.000,1
+New Delhi,"West Gate Mall, Rajouri Garden",1,3.500,3.000,1
+Faridabad,"SRS Mall, Sector 12, Faridabad",1,0.000,1.000,1
+Faridabad,"Park Plaza, Sector 21, Faridabad",1,3.000,3.000,1
+Faridabad,K Hotel,1,0.000,3.000,1
+Faridabad,Indraprastha Colony,1,0.000,1.000,1
+Dubai,Jumeirah 1,1,4.500,3.000,1
+Dubai,Festival City,1,4.500,4.000,1
+Dubai,Dubai Media City,1,4.800,3.000,1
+Dubai,Deira City Centre Area,1,4.900,3.000,1
+Dubai,DIFC,1,4.900,4.000,1
+Dubai,"CITY WALK, Al Safa",1,4.500,3.000,1
+Dubai,Barsha 2,1,4.500,3.000,1
+Dubai,Al Barari,1,3.900,3.000,1
+Doha,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud",1,4.300,4.000,1
+Doha,"The St. Regis, Westbay",1,4.400,4.000,1
+Doha,"The Gate, Dafna",1,3.900,4.000,1
+Doha,Souq Waqif,1,4.700,4.000,1
+Doha,Musheireb,1,3.800,3.000,1
+Doha,"Mall of Qatar, Al Gharafa",1,4.000,4.000,1
+Noida,Golf Course,1,0.000,2.000,1
+New Delhi,"Worldmark 3, Aerocity",1,0.000,2.000,1
+Doha,"Ghanem Business Center, Fereej Bin Mahmoud",1,4.000,4.000,1
+Doha,Fereej Bin Mahmoud,1,4.300,2.000,1
+Doha,"Caravan Complex, Al Hilal",1,3.600,3.000,1
+Doha,"Barwa Towers, Al Sadd",1,4.900,4.000,1
+Doha,Al Nasr,1,3.800,4.000,1
+Doha,Al Muntazah,1,3.800,3.000,1
+Doha,Al Hilal,1,4.200,4.000,1
+Doha,Al Ghanim,1,4.000,3.000,1
+Doha,"Al Emadi Financial Square, Al Hilal",1,4.600,4.000,1
+Doha,Al Doha Al Jadeeda,1,3.400,3.000,1
+Doha,Ain Khalid,1,3.400,4.000,1
+Dicky Beach,Dicky Beach,1,3.600,1.000,1
+Des Moines,Urbandale,1,3.800,2.000,1
+Des Moines,Kingman Place Historic District,1,4.300,2.000,1
+Noida,"Radisson Blu, Sector 18, Noida",1,3.500,4.000,1
+Noida,"Park Ascent, Sector 62, Noida",1,0.000,4.000,1
+Dalton,Chatsworth,1,3.900,1.000,1
+Consort,Consort,1,3.000,2.000,1
+Columbus,Hamilton,1,4.400,3.000,1
+Colombo,"Slave Island, Colombo 02",1,4.100,2.000,1
+Colombo,"Rajagiriya, Colombo",1,4.100,3.000,1
+Noida,Sector 127,1,0.000,1.000,1
+Des Moines,Johnston,1,4.000,1.000,1
+Des Moines,Greater South Side,1,4.100,1.000,1
+Des Moines,Fairground,1,4.100,4.000,1
+Des Moines,Beaverdale,1,4.500,3.000,1
+Dehradun,Race Course,1,3.900,2.000,1
+Dehradun,Paltan Bazaar,1,3.900,3.000,1
+Dehradun,"Pacific Mall, Jakhan",1,3.900,3.000,1
+Dehradun,Malsi,1,3.900,3.000,1
+Dehradun,Krishna Nagar,1,4.100,2.000,1
+Doha,"Hotel Intercontinental Doha, Westbay",1,3.700,4.000,1
+Chennai,Kotturpuram,1,4.100,3.000,1
+Chennai,Kilpauk,1,4.600,1.000,1
+Chennai,Gopalapuram,1,4.200,1.000,1
+Chennai,"Express Avenue Mall,  Royapettah",1,4.800,3.000,1
+Chennai,Ashok Nagar,1,4.200,2.000,1
+Chennai,Adyar,1,4.200,2.000,1
+Colombo,"Old Dutch Hospital, Fort",1,4.900,4.000,1
+Colombo,"Fort, Colombo 01",1,4.000,4.000,1
+Colombo,"Dehiwala, Colombo",1,3.500,2.000,1
+Coimbatore,Town Hall,1,4.400,3.000,1
+Coimbatore,"SMS Hotel, Peelamedu",1,4.300,1.000,1
+Coimbatore,Podanur,1,3.800,2.000,1
+Coimbatore,Gandhipuram,1,4.600,3.000,1
+Cochrane,Cochrane,1,3.100,2.000,1
+Dalton,Rock Spring,1,4.100,1.000,1
+Dalton,LaFayette,1,3.700,1.000,1
+Brasï¿½_lia,"ParkShopping, Guarï¿½ï¿½ I",1,4.000,4.000,1
+Brasï¿½_lia,Lago Sul,1,3.600,4.000,1
+Brasï¿½_lia,"Brasï¿½_lia Shopping, Asa Norte",1,4.200,4.000,1
+Noida,Sector 6,1,3.100,1.000,1
+Noida,Sector 57,1,0.000,1.000,1
+Chatham-Kent,Chatham-Kent,1,3.700,2.000,1
+Chandigarh,Sector 28,1,3.800,2.000,1
+Chandigarh,Chandigarh Industrial Area,1,3.700,2.000,1
+Cedar Rapids/Iowa City,Marion,1,4.700,2.000,1
+Cape Town,"One and Only Hotel, V & A Waterfront",1,4.000,4.000,1
+Clatskanie,Clatskanie,1,4.300,1.000,1
+Chennai,Santhome,1,4.300,2.000,1
+Chennai,Ramapuram,1,4.400,2.000,1
+Chennai,RA Puram,1,4.300,3.000,1
+Chennai,Perungudi,1,3.800,2.000,1
+Chennai,Mylapore,1,4.000,3.000,1
+Orlando,The Milk District,1,4.900,2.000,1
+Orlando,Sanford,1,4.800,3.000,1
+Orlando,Restaurant Row,1,4.400,4.000,1
+Orlando,Disney World Area,1,4.500,3.000,1
+Orlando,Church Street District,1,4.400,3.000,1
+Ojo Caliente,Ojo Caliente,1,3.600,3.000,1
+Noida,Sector 83,1,3.200,1.000,1
+Cape Town,Newlands,1,4.500,2.000,1
+Cape Town,De Waterkant,1,4.000,3.000,1
+Cape Town,Claremont,1,3.900,3.000,1
+Cape Town,"Cavendish Square, Claremont",1,4.100,4.000,1
+Cape Town,Athlone,1,3.700,3.000,1
+Brasï¿½_lia,Sudoeste,1,3.600,2.000,1
+Brasï¿½_lia,"Shopping Iguatemi, Lago Norte",1,3.300,4.000,1
+Brasï¿½_lia,Setor De Clubes Esportivos Sul,1,4.900,4.000,1
+Brasï¿½_lia,"Pontï¿½ï¿½o Lago Sul, Lago Sul",1,3.200,4.000,1
+Bogor,Bogor Utara,1,4.000,3.000,1
+Bogor,Bogor Timur,1,3.700,2.000,1
+Birmingham,"The Mailbox, Broad Street",1,4.000,2.000,1
+Birmingham,Sparkhill,1,3.700,3.000,1
+Birmingham,Smethwick,1,3.800,2.000,1
+Birmingham,Small Heath,1,3.100,1.000,1
+Birmingham,Jewellery Quarter,1,4.100,4.000,1
+Birmingham,Harborne,1,4.200,2.000,1
+Birmingham,Handsworth,1,3.600,2.000,1
+Birmingham,Edgbaston,1,4.000,3.000,1
+Patna,"Hotel Maurya, Lodipur",1,3.700,4.000,1
+Patna,Anandpuri,1,3.500,2.000,1
+Pasay City,"Sofitel Philippine Plaza Manila, Pasay City",1,4.900,4.000,1
+Panchkula,Sector 9,1,4.200,4.000,1
+Palm Cove,Palm Cove,1,4.400,3.000,1
+Orlando,Windermere,1,4.900,3.000,1
+Birmingham,Alum Rock,1,2.800,1.000,1
+Bhubaneshwar,Unit 4,1,3.500,1.000,1
+Bhubaneshwar,"The Crown, Nayapalli",1,4.300,3.000,1
+Bhubaneshwar,"Mayfair Lagoon, Jayadev Vihar",1,4.100,3.000,1
+Bhubaneshwar,Gajapati Nagar,1,3.700,2.000,1
+Potrero,Potrero,1,3.300,2.000,1
+Pocatello,Chubbuck,1,3.500,3.000,1
+Pocatello,Blackfoot,1,3.700,1.000,1
+Phillip Island,Phillip Island,1,3.700,2.000,1
+Pensacola,Navarre,1,4.200,2.000,1
+Penola,Penola,1,3.400,2.000,1
+Paynesville,Paynesville,1,2.600,4.000,1
+Patna,Patliputra Colony,1,3.500,3.000,1
+Patna,"Maurya Lok, Fraser Road Area",1,3.600,2.000,1
+Boise,Nampa,1,4.400,3.000,1
+Boise,Meridian,1,4.000,2.000,1
+Puducherry,"Villa Shanti, White Town",1,3.900,4.000,1
+Puducherry,"Hotel De Pondicherry, White Town",1,3.500,4.000,1
+Puducherry,Heritage Town,1,3.700,2.000,1
+Princeton,Princeton,1,4.000,4.000,1
+Pretoria,West Park,1,4.900,4.000,1
+Pretoria,"Waterglen Shopping Centre, Garsfontein",1,4.000,3.000,1
+Pretoria,"Menlyn Maine, Waterkloof Glen",1,3.900,4.000,1
+Pretoria,"Menlyn Boutique Hotel, Menlyn",1,4.400,4.000,1
+Pretoria,Lynnwood,1,4.300,4.000,1
+Pretoria,"Greenlyn Village, Menlopark, Near Lynnwood",1,4.400,3.000,1
+Pretoria,"Glenfair Boulevard, Lynnwood",1,3.800,4.000,1
+Pretoria,Garsfontein,1,4.300,4.000,1
+Birmingham,Digbeth,1,3.800,2.000,1
+Birmingham,Colmore Business District,1,4.500,4.000,1
+Birmingham,"Brindleyplace, Broad Street",1,4.000,3.000,1
+Birmingham,Brindleyplace,1,3.700,1.000,1
+Bhopal,Kohefiza,1,3.800,2.000,1
+Bhopal,Gulmohar Colony,1,3.800,2.000,1
+Beechworth,Beechworth,1,4.600,2.000,1
+Bangalore,UB City,1,4.400,3.000,1
+Bangalore,Residency Road,1,4.200,3.000,1
+Bangalore,New BEL Road,1,4.600,2.000,1
+Bangalore,Koramangala 7th Block,1,4.500,3.000,1
+Bangalore,Koramangala 6th Block,1,4.300,1.000,1
+Pune,Viman Nagar,1,4.100,3.000,1
+Pune,"Spot 18 Mall, Pimple Saudagar",1,3.600,4.000,1
+Pune,Ravet,1,4.200,3.000,1
+Pune,"R Deccan Mall, JM Road",1,4.500,3.000,1
+Pune,"Phoenix Market City, Viman Nagar",1,4.500,3.000,1
+Pune,Law College Road,1,4.000,3.000,1
+Pune,Deccan Gymkhana,1,4.800,3.000,1
+Pune,"Balewadi High Street, Balewadi",1,4.500,3.000,1
+Rio de Janeiro,Barra da Tijuca,1,4.000,4.000,1
+Rest of Hawaii,Paia,1,4.900,4.000,1
+Rest of Hawaii,Kaimuki,1,4.700,1.000,1
+Rest of Hawaii,Kailua Kona,1,4.700,3.000,1
+Rest of Hawaii,Kahuku,1,4.500,2.000,1
+Randburg,Linden,1,4.300,3.000,1
+Ranchi,"The Royal Retreat, Bariatu",1,3.500,3.000,1
+Ranchi,"Spring City Mall, Doranda",1,3.500,2.000,1
+Ranchi,"Radisson Blu, Hindpiri",1,3.400,4.000,1
+Ranchi,Kadru,1,3.600,3.000,1
+Ranchi,"Hotel Capitol Hill, Hindpiri",1,3.700,3.000,1
+Ranchi,Gandhi Nagar,1,3.300,3.000,1
+Quezon City,"UP Town Center, Diliman, Quezon City",1,4.800,3.000,1
+Pune,Wakad,1,4.400,3.000,1
+Bhopal,Sayaji Hotel,1,4.300,4.000,1
+Bhopal,Peer Gate Area,1,4.100,2.000,1
+Sandton,"Nicolway Shopping Centre, Bryanston",1,4.600,4.000,1
+Sandton,"Nelson Mandela Square, Sandown",1,4.300,4.000,1
+Sandton,"Melrose Arch, Melrose",1,4.100,4.000,1
+Sandton,Illovo,1,4.200,3.000,1
+Sandton,"Bryanston Shopping Centre, Bryanston",1,4.400,4.000,1
+San Juan City,Little Baguio,1,4.300,3.000,1
+San Juan City,Addition Hills,1,4.200,3.000,1
+Rio de Janeiro,Urca,1,4.300,3.000,1
+Rio de Janeiro,Tijuca,1,4.600,3.000,1
+Rio de Janeiro,Santa Teresa,1,4.700,4.000,1
+Rio de Janeiro,Madureira,1,0.000,3.000,1
+Rio de Janeiro,"Le Monde, Barra da Tijuca",1,4.000,4.000,1
+Rio de Janeiro,Lagoa,1,4.300,3.000,1
+Rio de Janeiro,Gï¿½ï¿½vea,1,4.900,4.000,1
+Rio de Janeiro,"Galeria River, Copacabana",1,4.800,3.000,1
+Rio de Janeiro,Centro,1,4.800,4.000,1
+Bangalore,JP Nagar,1,4.600,2.000,1
+Bangalore,"BluPetal Hotel, Koramangala",1,4.100,3.000,1
+Bandung,Dago,1,4.200,3.000,1
+Balingup,Balingup,1,3.200,2.000,1
+Aurangabad,Shahgunj,1,3.300,2.000,1
+Aurangabad,"Prozone Mall, Chicalthana",1,3.400,2.000,1
+Aurangabad,Nyay Nagar,1,3.200,2.000,1
+Aurangabad,Mondha,1,3.500,1.000,1
+Aurangabad,"Hotel Green Olive, Nirala Bazar",1,3.600,3.000,1
+Aurangabad,Chicalthana,1,3.300,3.000,1
+Aurangabad,Akashwani,1,3.600,3.000,1
+Augusta,Grovetown,1,4.200,1.000,1
+Santa Rosa,"Solenad 3, Don Jose, Santa Rosa",1,4.000,3.000,1
+Santa Rosa,"Nuvali, Don Jose, Santa Rosa",1,3.600,3.000,1
+Sandton,"Waterfall Corner Mall, Midrand",1,3.800,4.000,1
+Sandton,"Post Office Center, Illovo",1,4.400,4.000,1
+Singapore,"Haji Lane, Rochor",1,4.200,2.000,1
+Singapore,"Duxton Hill, Outram",1,3.900,4.000,1
+Singapore,"City Hall, Downtown Core",1,3.800,4.000,1
+Singapore,"Chinatown, Outram",1,3.100,4.000,1
+Singapore,"Cantonment Road, Outram",1,3.800,4.000,1
+Singapore,"Bayfront Subzone, Downtown Core",1,4.000,4.000,1
+Singapore,"Bayfront Avenue, Downtown Core",1,3.400,4.000,1
+Sharjah,"Sahara Centre, Al Nahda",1,4.100,4.000,1
+Sharjah,Muwailih Commercial,1,4.800,3.000,1
+Sharjah,"Majaz Waterfront, Al Majaz 3",1,3.900,4.000,1
+Sharjah,Halwan Suburb,1,3.800,4.000,1
+Sharjah,"Al Qasba, Al Khan",1,4.200,4.000,1
+Sharjah,Al Nud,1,4.200,3.000,1
+Sharjah,Al Khan,1,4.300,3.000,1
+Secunderabad,Sainikpuri,1,4.600,2.000,1
+Secunderabad,Karkhana,1,4.400,2.000,1
+Auckland,Penrose,1,4.500,3.000,1
+Auckland,Parnell,1,4.000,3.000,1
+Auckland,Newmarket,1,3.500,4.000,1
+Auckland,Mt Albert,1,4.400,3.000,1
+Auckland,Mission Bay,1,2.300,4.000,1
+Auckland,Lorne Street,1,4.200,4.000,1
+Auckland,Henderson,1,4.500,3.000,1
+Auckland,Fort Street,1,4.900,1.000,1
+Singapore,"Victoria, Rochor",1,3.200,4.000,1
+Singapore,"Telok Ayer Street, Outram",1,3.900,3.000,1
+Singapore,"Sungai Pinang, Rochor",1,3.800,3.000,1
+Singapore,"Robertson Quay, Singapore River",1,3.200,4.000,1
+Singapore,"North Bridge Road, Rochor",1,3.200,4.000,1
+Singapore,"Neil Road, Outram",1,3.100,4.000,1
+Singapore,"Kay Siang Road, Tanglin",1,3.200,3.000,1
+Singapore,"Hillcrest, Bukit Timah",1,4.100,4.000,1
+Sï¿½ï¿½o Paulo,Vila Sï¿½ï¿½nia,1,4.100,4.000,1
+Sï¿½ï¿½o Paulo,Vila Mariana,1,4.600,3.000,1
+Sï¿½ï¿½o Paulo,Vila Maria,1,4.400,4.000,1
+Sï¿½ï¿½o Paulo,"Shopping Morumbi, Santo Amaro",1,0.000,2.000,1
+Sï¿½ï¿½o Paulo,"Shopping Metrï¿½ï¿½ Santa Cruz, Vila Mariana",1,0.000,3.000,1
+Sï¿½ï¿½o Paulo,Pinheiros,1,4.300,4.000,1
+Sï¿½ï¿½o Paulo,Moema,1,3.900,4.000,1
+Sï¿½ï¿½o Paulo,"Hotel Unique, Jardim Paulista",1,4.800,4.000,1
+Surat,Nanpura,1,3.900,2.000,1
+Surat,"International Business Center, Piplod",1,4.200,3.000,1
+Surat,"Golden Square, City Light",1,3.700,3.000,1
+Sioux City,South Sioux City,1,3.500,4.000,1
+Sioux City,Le Mars,1,3.700,3.000,1
+Auckland,Wynyard Quarter,1,4.600,4.000,1
+Auckland,"The Langham Hotel, Auckland CBD",1,4.700,4.000,1
+Auckland,"Sky City Metro, Auckland CBD",1,4.000,3.000,1
+Armidale,Armidale,1,3.500,2.000,1
+Ankara,ï¿½ï¿½mitkï¿½_y,1,4.200,3.000,1
+Ankara,ï¿½ukurambar,1,3.400,2.000,1
+Ankara,ï¿½ayyolu,1,4.300,2.000,1
+Ankara,YÛ±ldÛ±zevler,1,4.700,2.000,1
+Ankara,Maltepe,1,4.400,3.000,1
+Ankara,Macunkï¿½_y,1,4.300,2.000,1
+Ankara,"Kentpark AVM, ï¿½ï¿½niversiteler, ï¿½ankaya",1,4.200,3.000,1
+Ankara,KavaklÛ±dere,1,4.300,3.000,1
+Ankara,Emek,1,4.400,3.000,1
+Ankara,Dikmen,1,4.500,3.000,1
+Tampa Bay,Indian Rocks/Indian Shores,1,4.200,3.000,1
+Tampa Bay,Clearwater,1,4.600,2.000,1
+Taguig City,Bonifacio Global City,1,4.400,4.000,1
+Taguig City,"BGC Stopover Pavillion, Bonifacio Global City",1,4.500,2.000,1
+Tagaytay City,Tagaytay City,1,4.500,3.000,1
+Ahmedabad,Thaltej,1,4.100,3.000,1
+Vadodara,Panchvati,1,3.500,3.000,1
+Vadodara,"M Cube Mall, Vadiwadi",1,3.800,3.000,1
+Vadodara,"Hotel Express Towers, Alkapuri",1,4.000,2.000,1
+Vadodara,Diwalipura,1,3.800,3.000,1
+Trentham East,Trentham East,1,4.100,2.000,1
+Tanunda,Tanunda,1,4.400,3.000,1
+Tangerang,Pondok Aren,1,4.900,3.000,1
+Tangerang,"Alam Sutera Town Center, Serpong Utara",1,3.700,3.000,1
+Tampa Bay,Ybor City,1,4.400,3.000,1
+Tampa Bay,Palma Ceia,1,4.700,3.000,1
+Tampa Bay,Northeast St Petersburg,1,4.500,3.000,1
+Tampa Bay,New Tampa,1,4.900,3.000,1
+Tampa Bay,Madeira Beach/Redington Beach,1,4.500,3.000,1
+Tampa Bay,Kenwood,1,4.900,1.000,1
+Auckland,Balmoral,1,4.300,2.000,1
+Abu Dhabi,"Mushrif Mall, Al Mushrif",1,4.000,4.000,1
+Vizag,Waltair Uplands,1,4.400,3.000,1
+Vizag,"The Park, Lawsons Bay",1,3.800,4.000,1
+Vizag,Sagar Nagar,1,3.600,2.000,1
+Vizag,Rushikonda,1,4.000,2.000,1
+Vizag,Maddilapalem,1,3.500,2.000,1
+Vizag,MVP Colony,1,4.100,2.000,1
+Vizag,Jagadamba Junction,1,3.700,1.000,1
+Vizag,"Hotel Novotel, Maharani Peta",1,4.100,4.000,1
+Vizag,"Hotel GreenPark, Vizag",1,4.400,3.000,1
+Ahmedabad,Prahlad Nagar,1,4.500,3.000,1
+Ahmedabad,Ghatlodia,1,4.300,3.000,1
+Ahmedabad,"Courtyard By Marriott, Satellite",1,3.600,3.000,1
+Ahmedabad,C G Road,1,3.800,3.000,1
+Ahmedabad,Ashram Road,1,3.700,4.000,1
+Ahmedabad,Ambavadi,1,4.200,3.000,1
+New Delhi,"Andaz Delhi, Aerocity",1,3.000,3.000,1
+ï¿½ï¿½stanbul,Koï¿½ï¿½uyolu,1,4.200,3.000,1
+ï¿½ï¿½stanbul,KadÛ±kï¿½_y Merkez,1,3.700,3.000,1
+ï¿½ï¿½stanbul,Emirgï¿½ï¿½n,1,4.200,3.000,1
+ï¿½ï¿½stanbul,Caddebostan,1,4.900,4.000,1
+ï¿½ï¿½stanbul,Beï¿½ï¿½iktaï¿½ï¿½ Merkez,1,4.200,3.000,1
+ï¿½ï¿½stanbul,Bebek,1,4.900,2.000,1
+ï¿½ï¿½stanbul,AsmalÛ±mescit,1,4.700,2.000,1
+Yorkton,Yorkton,1,3.300,2.000,1
+Winchester Bay,Winchester Bay,1,3.200,2.000,1
+Wellington City,Mt Victoria,1,4.100,3.000,1
+Wellington City,Lyall Bay,1,4.300,3.000,1
+Weirton,Weirton,1,3.900,2.000,1
+Abu Dhabi,"Yas Mall, Yas Island",1,4.600,4.000,1
+Abu Dhabi,"Venetian Village, Al Maqtaa",1,4.900,4.000,1
+Abu Dhabi,Mussafah Sanaiya,1,4.000,2.000,1
+
