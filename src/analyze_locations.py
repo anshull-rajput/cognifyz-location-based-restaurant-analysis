@@ -50,6 +50,8 @@ def main() -> None:
 
     for column in ("Longitude", "Latitude", "Price range", "Aggregate rating"):
         data[column] = pd.to_numeric(data[column], errors="coerce")
+    # A zero aggregate rating is the dataset's "Not rated" sentinel.
+    data["rating_for_analysis"] = data["Aggregate rating"].where(data["Aggregate rating"] > 0)
     for column in ("City", "Locality", "Cuisines"):
         data[column] = data[column].fillna("Unknown").astype(str).str.strip()
         data.loc[data[column].eq(""), column] = "Unknown"
@@ -64,7 +66,7 @@ def main() -> None:
 
     city = data.groupby("City", dropna=False).agg(
         restaurant_count=("Restaurant Name", "size"),
-        average_rating=("Aggregate rating", "mean"),
+        average_rating=("rating_for_analysis", "mean"),
         median_price_range=("Price range", "median"),
         average_price_range=("Price range", "mean"),
         unique_cuisines=("Cuisines", "nunique"),
@@ -77,7 +79,7 @@ def main() -> None:
 
     locality = data.groupby(["City", "Locality"], dropna=False).agg(
         restaurant_count=("Restaurant Name", "size"),
-        average_rating=("Aggregate rating", "mean"),
+        average_rating=("rating_for_analysis", "mean"),
         median_price_range=("Price range", "median"),
         unique_cuisines=("Cuisines", "nunique"),
     ).sort_values("restaurant_count", ascending=False)
@@ -109,7 +111,8 @@ def main() -> None:
     plt.close(fig)
 
     fig, ax = plt.subplots(figsize=(11, 7))
-    sample = geo.sample(min(len(geo), 12000), random_state=42) if len(geo) else geo
+    rated_geo = geo.loc[geo["rating_for_analysis"].notna()]
+    sample = rated_geo.sample(min(len(rated_geo), 12000), random_state=42) if len(rated_geo) else rated_geo
     points = ax.scatter(sample["Longitude"], sample["Latitude"], c=sample["Aggregate rating"],
                         cmap="viridis", s=10, alpha=0.55, linewidths=0)
     fig.colorbar(points, ax=ax, label="Aggregate rating")
@@ -124,7 +127,7 @@ def main() -> None:
         map_data = geo.assign(
             lat=geo["Latitude"].round(1), lon=geo["Longitude"].round(1)
         ).groupby(["lat", "lon"], as_index=False).agg(
-            restaurants=("Restaurant Name", "size"), average_rating=("Aggregate rating", "mean"),
+            restaurants=("Restaurant Name", "size"), average_rating=("rating_for_analysis", "mean"),
             city=("City", lambda values: values.mode().iat[0]),
         )
         points_json = map_data.to_json(orient="records", double_precision=2)
@@ -153,6 +156,8 @@ marker.bindPopup('<b>'+String(p.city).replace(/[&<>]/g,'')+'</b><br>Restaurants 
         "invalid_or_missing_coordinate_rows": int((~valid_coords).sum()),
         "coordinate_coverage_percent": round(float(valid_coords.mean() * 100), 2),
         "overall_average_rating": round(float(data["Aggregate rating"].mean()), 3),
+        "average_rating_among_rated_restaurants": round(float(data["rating_for_analysis"].mean()), 3),
+        "not_rated_restaurants": int(data["rating_for_analysis"].isna().sum()),
         "most_represented_city": top_city_name,
         "most_represented_city_restaurants": int(city.iloc[0]["restaurant_count"]) if len(city) else 0,
         "most_represented_locality": {
@@ -165,7 +170,7 @@ marker.bindPopup('<b>'+String(p.city).replace(/[&<>]/g,'')+'</b><br>Restaurants 
             str(city.loc[city["restaurant_count"] >= 30, "average_rating"].idxmax())
             if (city["restaurant_count"] >= 30).any() else None
         ),
-        "note": "Average ratings are computed from recorded ratings; unrated restaurants are excluded by pandas mean. Cuisine counts count each listed cuisine once per restaurant row.",
+        "note": "Zero aggregate ratings are treated as unrated and excluded from rating averages. Cuisine counts count each listed cuisine once per restaurant row.",
     }
     (reports / "key_insights.json").write_text(json.dumps(insights, indent=2), encoding="utf-8")
     print(json.dumps(insights, indent=2))
