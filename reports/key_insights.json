@@ -1,0 +1,20 @@
+{
+  "dataset_rows": 9551,
+  "cities": 141,
+  "city_locality_groups": 1265,
+  "valid_coordinate_rows": 9551,
+  "invalid_or_missing_coordinate_rows": 0,
+  "coordinate_coverage_percent": 100.0,
+  "overall_average_rating": 2.666,
+  "most_represented_city": "New Delhi",
+  "most_represented_city_restaurants": 5473,
+  "most_represented_locality": {
+    "city": "New Delhi",
+    "locality": "Connaught Place",
+    "restaurants": 122
+  },
+  "most_common_cuisine": "North Indian",
+  "most_common_cuisine_mentions": 3960,
+  "city_with_highest_average_rating_min_30_restaurants": "Gurgaon",
+  "note": "Average ratings are computed from recorded ratings; unrated restaurants are excluded by pandas mean. Cuisine counts count each listed cuisine once per restaurant row."
+}
